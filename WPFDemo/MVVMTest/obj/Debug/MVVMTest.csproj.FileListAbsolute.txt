@@ -1,0 +1,15 @@
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MVVMTest.csproj.AssemblyReference.cache
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MainWindow.g.cs
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\App.g.cs
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MVVMTest_MarkupCompile.cache
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MVVMTest_MarkupCompile.lref
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\bin\Debug\MVVMTest.exe.config
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\bin\Debug\MVVMTest.exe
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\bin\Debug\MVVMTest.pdb
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MainWindow.baml
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MVVMTest.g.resources
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MVVMTest.Properties.Resources.resources
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MVVMTest.csproj.GenerateResource.cache
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MVVMTest.csproj.CoreCompileInputs.cache
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MVVMTest.exe
+C:\Users\Cao Jian\Desktop\WPFDemo\MVVMTest\obj\Debug\MVVMTest.pdb
