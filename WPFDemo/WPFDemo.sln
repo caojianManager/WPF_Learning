@@ -3,19 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{4D5DB29F-6BBA-4BA3-BA63-DC394499B7AA}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphics", "Graphics", "{AA4629EB-633F-4CFF-93F3-2B769A9B7BE2}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Transformations", "Transformations", "{095D412F-69F8-4895-A230-DD51C801C8A9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DTransforms", "2DTransforms\2DTransforms.csproj", "{3B94F876-5039-45A2-890B-8B970BE408F9}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{1FC41EAE-BE10-4A88-B696-8DF19B0B61E8}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVVM_Test", "MVVM_Test", "{72BA80F9-BE8E-4654-A51A-BD9ECE901FF8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMTest", "MVVMTest\MVVMTest.csproj", "{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDemo", "WPFDemo\WPFDemo.csproj", "{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,24 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3B94F876-5039-45A2-890B-8B970BE408F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B94F876-5039-45A2-890B-8B970BE408F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B94F876-5039-45A2-890B-8B970BE408F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B94F876-5039-45A2-890B-8B970BE408F9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{AA4629EB-633F-4CFF-93F3-2B769A9B7BE2} = {4D5DB29F-6BBA-4BA3-BA63-DC394499B7AA}
-		{095D412F-69F8-4895-A230-DD51C801C8A9} = {AA4629EB-633F-4CFF-93F3-2B769A9B7BE2}
-		{3B94F876-5039-45A2-890B-8B970BE408F9} = {095D412F-69F8-4895-A230-DD51C801C8A9}
-		{72BA80F9-BE8E-4654-A51A-BD9ECE901FF8} = {1FC41EAE-BE10-4A88-B696-8DF19B0B61E8}
-		{3B24EB1A-A947-4BEF-8D42-AA2A1B585054} = {72BA80F9-BE8E-4654-A51A-BD9ECE901FF8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {28420F74-AC8F-48F2-BE08-17CDF75AD1CA}
