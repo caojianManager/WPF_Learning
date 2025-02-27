@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cao Jian\\Desktop\\WPFDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|c:\\users\\cao jian\\desktop\\wpfdemo\\mvvmtest\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\mvvmtest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\mvvmtest\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|c:\\users\\cao jian\\desktop\\wpfdemo\\mvvmtest\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\mvvmtest\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|c:\\users\\cao jian\\desktop\\wpfdemo\\mvvmtest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\mvvmtest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B24EB1A-A947-4BEF-8D42-AA2A1B585054}|MVVMTest\\MVVMTest.csproj|solutionrelative:mvvmtest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B94F876-5039-45A2-890B-8B970BE408F9}|2DTransforms\\2DTransforms.csproj|C:\\Users\\Cao Jian\\Desktop\\WPFDemo\\2dtransforms\\view\\transformexample.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3B94F876-5039-45A2-890B-8B970BE408F9}|2DTransforms\\2DTransforms.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\2dtransforms\\view\\transformexample.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3B94F876-5039-45A2-890B-8B970BE408F9}|2DTransforms\\2DTransforms.csproj|solutionrelative:2dtransforms\\view\\transformexample.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -26,58 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPFDemo\\MVVMTest\\Models\\User.cs",
-              "RelativeDocumentMoniker": "MVVMTest\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Cao Jian\\Desktop\\WPFDemo\\MVVMTest\\Models\\User.cs",
-              "RelativeToolTip": "MVVMTest\\Models\\User.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T06:24:39.575Z",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\MVVMTest\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVMTest\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\MVVMTest\\MainWindow.xaml",
+              "RelativeToolTip": "MVVMTest\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T16:37:02.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\MVVMTest\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVVMTest\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\MVVMTest\\Models\\User.cs",
+              "RelativeToolTip": "MVVMTest\\Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:24:39.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPFDemo\\MVVMTest\\ViewModel\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\MVVMTest\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "MVVMTest\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Cao Jian\\Desktop\\WPFDemo\\MVVMTest\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\MVVMTest\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "MVVMTest\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAArAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T06:22:34.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TransformExample.xaml",
-              "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPFDemo\\2DTransforms\\View\\TransformExample.xaml",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\2DTransforms\\View\\TransformExample.xaml",
               "RelativeDocumentMoniker": "2DTransforms\\View\\TransformExample.xaml",
-              "ToolTip": "C:\\Users\\Cao Jian\\Desktop\\WPFDemo\\2DTransforms\\View\\TransformExample.xaml",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\2DTransforms\\View\\TransformExample.xaml",
               "RelativeToolTip": "2DTransforms\\View\\TransformExample.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-24T06:05:56.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T06:05:56.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPFDemo\\MVVMTest\\Commands\\RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\MVVMTest\\Commands\\RelayCommand.cs",
               "RelativeDocumentMoniker": "MVVMTest\\Commands\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\Cao Jian\\Desktop\\WPFDemo\\MVVMTest\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\MVVMTest\\Commands\\RelayCommand.cs",
               "RelativeToolTip": "MVVMTest\\Commands\\RelayCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T06:04:15.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T06:04:15.056Z"
             }
           ]
         }
