@@ -23,7 +23,7 @@ namespace WPFDemo
         protected override async void OnStartup(object sender, StartupEventArgs e)
         {
             //设置初始页面
-            Type homeWindow= typeof(ShellViewModel);
+            Type homeWindow= typeof(HomeViewModel);
             await DisplayRootViewForAsync(homeWindow);
         }
 

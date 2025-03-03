@@ -30,3 +30,12 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\ShellView.g.
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\ShellView.baml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\CategoryView.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\CategoryView.baml
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\HomeView.g.cs
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\HomeView.baml
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Samples\2DTransforms\View\TransformExample.baml
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Samples\2DTransforms\View\MainWindowView.g.cs
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Samples\2DTransforms\View\TransformExample.g.cs
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Samples\2DTransforms\View\MainWindowView.baml
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\NLog.dll
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\NLog.xml
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Colorful.Console.dll
