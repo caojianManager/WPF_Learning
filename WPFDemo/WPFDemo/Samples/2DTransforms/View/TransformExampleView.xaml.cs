@@ -18,9 +18,9 @@ namespace WPFDemo.Samples._2DTransforms.View
     /// <summary>
     /// TransformExample.xaml 的交互逻辑
     /// </summary>
-    public partial class TransformExample : Page
+    public partial class TransformExampleView : Page
     {
-        public TransformExample()
+        public TransformExampleView()
         {
             InitializeComponent();
         }

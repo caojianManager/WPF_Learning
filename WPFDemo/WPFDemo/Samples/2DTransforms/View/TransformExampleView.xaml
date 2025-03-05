@@ -1,7 +1,7 @@
-﻿<Page x:Class="WPFDemo.Samples._2DTransforms.View.TransformExample"
+﻿<Page x:Class="WPFDemo.Samples._2DTransforms.View.TransformExampleView"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-      Title="Transform Example">
+      Title="Transform Example View">
     <Page.Resources>
         <Style TargetType="{x:Type TextBlock}">
             <Setter Property="TextWrapping" Value="Wrap"/>

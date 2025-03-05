@@ -89,13 +89,22 @@
     <Compile Include="Common\Singleton.cs" />
     <Compile Include="Common\ViewModelBase.cs" />
     <Compile Include="Models\Category.cs" />
+    <Compile Include="Samples\2DTransforms\ViewModel\MainWindowViewModel.cs" />
+    <Compile Include="Samples\2DTransforms\ViewModel\TransformExampleViewModel.cs" />
     <Compile Include="Samples\2DTransforms\View\MainWindowView.xaml.cs">
       <DependentUpon>MainWindowView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Samples\2DTransforms\View\TransformExample.xaml.cs">
-      <DependentUpon>TransformExample.xaml</DependentUpon>
+    <Compile Include="Samples\2DTransforms\View\TransformExampleView.xaml.cs">
+      <DependentUpon>TransformExampleView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Utils\LogUtil.cs" />
+    <Compile Include="Utils\NetWorks\SimpleTCP\Message.cs" />
+    <Compile Include="Utils\NetWorks\SimpleTCP\Server\ConnectedClient.cs" />
+    <Compile Include="Utils\NetWorks\SimpleTCP\Server\ServerListener.cs" />
+    <Compile Include="Utils\NetWorks\SimpleTCP\Server\TcpListenerEx.cs" />
+    <Compile Include="Utils\NetWorks\SimpleTCP\SimpleTcpClient.cs" />
+    <Compile Include="Utils\NetWorks\SimpleTCP\SimpleTcpServer.cs" />
+    <Compile Include="Utils\NetWorks\TCPUtil.cs" />
     <Compile Include="ViewModels\CategoryViewModel.cs" />
     <Compile Include="ViewModels\HomeViewModel.cs" />
     <Compile Include="ViewModels\ShellViewModel.cs" />
@@ -138,13 +147,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Func\" />
+  </ItemGroup>
   <ItemGroup>
     <Page Include="Samples\2DTransforms\View\MainWindowView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Samples\2DTransforms\View\TransformExample.xaml">
+    <Page Include="Samples\2DTransforms\View\TransformExampleView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
