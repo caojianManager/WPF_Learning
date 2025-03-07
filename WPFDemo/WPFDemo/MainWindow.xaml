@@ -104,15 +104,22 @@
 
                                     <CheckBox Grid.Row="0"
                                               Content="Read-Only"
+                                              IsChecked="{Binding IsReadOnly}"
                                               Style="{DynamicResource {x:Static adonisUi:Styles.ToggleSwitch}}">
                                         
                                     </CheckBox>
 
-                                    <CheckBox Grid.Row="2">
+                                    <CheckBox Grid.Row="2"
+                                              Content="Title Bar"
+                                              IsChecked="{Binding IsTitleBarVisible}"
+                                              Style="{DynamicResource {x:Static adonisUi:Styles.ToggleSwitch}}">
 
                                     </CheckBox>
 
-                                    <CheckBox Grid.Row="4">
+                                    <CheckBox Grid.Row="4"
+                                              Content="Dev Mode"
+                                              IsChecked="{Binding IsDeveloperMode}"
+                                              Style="{DynamicResource {x:Static adonisUi:Styles.ToggleSwitch}}">
 
                                     </CheckBox>
                                 </Grid>
