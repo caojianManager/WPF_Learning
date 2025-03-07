@@ -7,11 +7,12 @@
                               xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
                               xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                               xmlns:local="clr-namespace:WPFDemo"
+                              xmlns:viewModels="clr-namespace:WPFDemo.ViewModels"
                               mc:Ignorable="d"
                               Title="MainWindow" 
                               Height="450" 
                               Width="800">
-    
+
     <adonisControls:AdonisWindow.Style>
         <Style TargetType="Window" BasedOn="{StaticResource {x:Type Window}}"/>
     </adonisControls:AdonisWindow.Style>
@@ -40,7 +41,6 @@
         </Grid.ColumnDefinitions>
 
         <DockPanel LastChildFill="True" Grid.ColumnSpan="2">
-            
             <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="Auto"/>
@@ -68,7 +68,7 @@
                                 <TextBlock Text="COLOR SCHEME"
                                            Style="{StaticResource NavigationGroupHeaderStyle}"/>
 
-                                <Grid Grid.Row="1" Margin="{adonisUi:Space 4,0,3,0}">
+                                <Grid Grid.Row="2" Margin="{adonisUi:Space 4,0,3,0}">
                                     <StackPanel Orientation="Horizontal">
                                         <TextBlock Text="Light"
                                                    VerticalAlignment="Center"
@@ -78,7 +78,7 @@
                                                       IsChecked="{Binding IsDark, RelativeSource={RelativeSource FindAncestor, AncestorType=local:MainWindow}}"
                                                       Content="Dark"/>
                                     </StackPanel>
-                                   
+
                                 </Grid>
 
                             </Grid>
@@ -92,7 +92,7 @@
 
                                 <TextBlock Text="SETTINGS"
                                            Style="{StaticResource NavigationGroupHeaderStyle}"/>
-                                
+
                                 <Grid Grid.Row="1" Margin="{adonisUi:Space 3,0,3,0}">
                                     <Grid.RowDefinitions>
                                         <RowDefinition Height="Auto"/>
@@ -106,7 +106,7 @@
                                               Content="Read-Only"
                                               IsChecked="{Binding IsReadOnly}"
                                               Style="{DynamicResource {x:Static adonisUi:Styles.ToggleSwitch}}">
-                                        
+
                                     </CheckBox>
 
                                     <CheckBox Grid.Row="2"
@@ -125,7 +125,76 @@
                                 </Grid>
                             </Grid>
 
-                            <ListBox Grid.Row="3">
+                            <ListBox Grid.Row="3"
+                                     ItemsSource="{Binding PagesCollectionView}"
+                                     SelectedItem="{Binding SelectedPage, ValidatesOnDataErrors=False, ValidatesOnNotifyDataErrors=False}"
+                                     adonisExtensions:ScrollViewerExtension.VerticalScrollBarPlacement="Overlay"
+                                     adonisExtensions:ScrollViewerExtension.HideScrollBarsUntilMouseOver="True">
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Name}"/>
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                                <ListBox.ItemContainerStyle>
+                                    <Style TargetType="ListBoxItem"
+                                        BasedOn="{StaticResource {x:Type ListBoxItem}}">
+                                        <Setter Property="BorderThickness" Value="0"/>
+                                        <Setter Property="Padding" Value="{adonisUi:Space 3, 1, 2, 1}"/>
+                                    </Style>
+                                </ListBox.ItemContainerStyle>
+                                <ListBox.GroupStyle>
+                                    <GroupStyle>
+                                        <GroupStyle.Panel>
+                                            <ItemsPanelTemplate>
+                                                <VirtualizingStackPanel Orientation="Vertical" />
+                                            </ItemsPanelTemplate>
+                                        </GroupStyle.Panel>
+                                        <GroupStyle.ContainerStyle>
+                                            <Style TargetType="{x:Type GroupItem}">
+                                                <Setter Property="Template">
+                                                    <Setter.Value>
+                                                        <ControlTemplate>
+                                                            <Grid>
+                                                                <Grid.RowDefinitions>
+                                                                    <RowDefinition Height="Auto"/>
+                                                                    <RowDefinition Height="*"/>
+                                                                    <RowDefinition Height="{adonisUi:Space 2}"/>
+                                           
+                                                                </Grid.RowDefinitions>
+                                                                <TextBlock x:Name="GroupHeader"
+                                                                Style="{StaticResource NavigationGroupHeaderStyle}"/>
+
+                                                                <ItemsPresenter Grid.Row="1"/>
+                                                            </Grid>
+
+                                                            <ControlTemplate.Triggers>
+                                                                <DataTrigger Binding="{Binding Name}"
+                                                                             Value="{x:Static viewModels:ApplicationNavigationGroup.Samples}">
+                                                                    <Setter Property="Text"
+                                                                            TargetName="GroupHeader"
+                                                                            Value="SAMPLES"/>
+                                                                </DataTrigger>
+                                                                <DataTrigger Binding="{Binding Name}"
+                                                                             Value="{x:Static viewModels:ApplicationNavigationGroup.IssueScenarios}">
+                                                                    <Setter Property="Text"
+                                                                            TargetName="GroupHeader"
+                                                                            Value="ISSUE SCENARIOS"/>
+                                                                </DataTrigger>
+                                                                <DataTrigger Binding="{Binding Name}"
+                                                                             Value="{x:Static viewModels:ApplicationNavigationGroup.Reference}">
+                                                                    <Setter Property="Text"
+                                                                            TargetName="GroupHeader"
+                                                                            Value="REFERENCE"/>
+                                                                </DataTrigger>
+                                                            </ControlTemplate.Triggers>
+                                                        </ControlTemplate>  
+                                                    </Setter.Value>
+                                                </Setter>
+                                            </Style>
+                                        </GroupStyle.ContainerStyle>
+                                    </GroupStyle>
+                                </ListBox.GroupStyle>
+
                             </ListBox>
 
 
@@ -134,11 +203,11 @@
                 </Grid>
 
                 <Grid Grid.Column="1">
-                    
+
                 </Grid>
 
             </Grid>
-            
+
         </DockPanel>
     </Grid>
 </adonisControls:AdonisWindow>

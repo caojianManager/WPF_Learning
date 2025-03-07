@@ -84,6 +84,8 @@
     <Compile Include="Framework\MVVM\Command.cs" />
     <Compile Include="Framework\MVVM\ViewModelBase.cs" />
     <Compile Include="Framework\MVVM\ViewModelCommand.cs" />
+    <Compile Include="ViewModels\Scripts\ApplicationNavigationGroup.cs" />
+    <Compile Include="ViewModels\Scripts\IApplicationContentView.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
     </Compile>
