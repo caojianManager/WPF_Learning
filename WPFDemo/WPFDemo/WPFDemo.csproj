@@ -35,20 +35,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Caliburn.Micro.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=8e5891231f2ed21f, processorArchitecture=MSIL">
-      <HintPath>..\packages\Caliburn.Micro.Core.4.0.230\lib\netstandard2.0\Caliburn.Micro.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Caliburn.Micro.Platform, Version=4.0.0.0, Culture=neutral, PublicKeyToken=8e5891231f2ed21f, processorArchitecture=MSIL">
-      <HintPath>..\packages\Caliburn.Micro.4.0.230\lib\net462\Caliburn.Micro.Platform.dll</HintPath>
-    </Reference>
-    <Reference Include="Caliburn.Micro.Platform.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=8e5891231f2ed21f, processorArchitecture=MSIL">
-      <HintPath>..\packages\Caliburn.Micro.4.0.230\lib\net462\Caliburn.Micro.Platform.Core.dll</HintPath>
-    </Reference>
     <Reference Include="Colorful.Console, Version=1.2.15.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Colorful.Console.1.2.15\lib\net461\Colorful.Console.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Xaml.Behaviors, Version=1.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Xaml.Behaviors.Wpf.1.1.19\lib\net45\Microsoft.Xaml.Behaviors.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
       <HintPath>..\packages\NLog.5.4.0\lib\net46\NLog.dll</HintPath>
@@ -87,7 +81,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Common\Singleton.cs" />
-    <Compile Include="Common\ViewModelBase.cs" />
+    <Compile Include="Framework\MVVM\Command.cs" />
+    <Compile Include="Framework\MVVM\ViewModelBase.cs" />
+    <Compile Include="Framework\MVVM\ViewModelCommand.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Models\Category.cs" />
     <Compile Include="Samples\2DTransforms\ViewModel\MainWindowViewModel.cs" />
     <Compile Include="Samples\2DTransforms\ViewModel\TransformExampleViewModel.cs" />
@@ -98,28 +97,15 @@
       <DependentUpon>TransformExampleView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Utils\LogUtil.cs" />
-    <Compile Include="Utils\NetWorks\SimpleTCP\Message.cs" />
-    <Compile Include="Utils\NetWorks\SimpleTCP\Server\ConnectedClient.cs" />
-    <Compile Include="Utils\NetWorks\SimpleTCP\Server\ServerListener.cs" />
-    <Compile Include="Utils\NetWorks\SimpleTCP\Server\TcpListenerEx.cs" />
-    <Compile Include="Utils\NetWorks\SimpleTCP\SimpleTcpClient.cs" />
-    <Compile Include="Utils\NetWorks\SimpleTCP\SimpleTcpServer.cs" />
-    <Compile Include="Utils\NetWorks\TCPUtil.cs" />
-    <Compile Include="ViewModels\CategoryViewModel.cs" />
-    <Compile Include="ViewModels\HomeViewModel.cs" />
-    <Compile Include="ViewModels\ShellViewModel.cs" />
-    <Compile Include="Views\CategoryView.xaml.cs">
-      <DependentUpon>CategoryView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Views\HomeView.xaml.cs">
-      <DependentUpon>HomeView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Views\ShellView.xaml.cs">
-      <DependentUpon>ShellView.xaml</DependentUpon>
-    </Compile>
+    <Compile Include="Framework\NetWorks\SimpleTCP\Message.cs" />
+    <Compile Include="Framework\NetWorks\SimpleTCP\Server\ConnectedClient.cs" />
+    <Compile Include="Framework\NetWorks\SimpleTCP\Server\ServerListener.cs" />
+    <Compile Include="Framework\NetWorks\SimpleTCP\Server\TcpListenerEx.cs" />
+    <Compile Include="Framework\NetWorks\SimpleTCP\SimpleTcpClient.cs" />
+    <Compile Include="Framework\NetWorks\SimpleTCP\SimpleTcpServer.cs" />
+    <Compile Include="Framework\NetWorks\TCPTool.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bootstrapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -149,8 +135,14 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Func\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Views\" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="MainWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Samples\2DTransforms\View\MainWindowView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -159,18 +151,16 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Views\CategoryView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Views\HomeView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Views\ShellView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdonisUI.ClassicTheme\AdonisUI.ClassicTheme.csproj">
+      <Project>{581e9ce0-2dc6-e6a2-ae85-590bb5948465}</Project>
+      <Name>AdonisUI.ClassicTheme</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AdonisUI\AdonisUI.csproj">
+      <Project>{5a871e55-9fe5-c702-4b22-bb19d8369046}</Project>
+      <Name>AdonisUI</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

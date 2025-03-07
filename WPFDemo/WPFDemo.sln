@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDemo", "WPFDemo\WPFDemo.csproj", "{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdonisUI", "AdonisUI\AdonisUI.csproj", "{5A871E55-9FE5-C702-4B22-BB19D8369046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdonisUI.ClassicTheme", "AdonisUI.ClassicTheme\AdonisUI.ClassicTheme.csproj", "{581E9CE0-2DC6-E6A2-AE85-590BB5948465}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A871E55-9FE5-C702-4B22-BB19D8369046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A871E55-9FE5-C702-4B22-BB19D8369046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A871E55-9FE5-C702-4B22-BB19D8369046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A871E55-9FE5-C702-4B22-BB19D8369046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581E9CE0-2DC6-E6A2-AE85-590BB5948465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581E9CE0-2DC6-E6A2-AE85-590BB5948465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581E9CE0-2DC6-E6A2-AE85-590BB5948465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581E9CE0-2DC6-E6A2-AE85-590BB5948465}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

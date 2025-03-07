@@ -3,83 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\utils\\networks\\tcputil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\utils\\networks\\tcputil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\utils\\networks\\simpletcp\\simpletcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\utils\\networks\\simpletcp\\simpletcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\utils\\networks\\simpletcp\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\utils\\networks\\simpletcp\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\NuGet.Build.Tasks.Pack\\buildCrossTargeting\\NuGet.Build.Tasks.Pack.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\shellview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\shellview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\utils\\logutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\utils\\logutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\utils\\networks\\simpletcp\\simpletcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\utils\\networks\\simpletcp\\simpletcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\samples\\2dtransforms\\view\\transformexampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\samples\\2dtransforms\\view\\transformexampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\samples\\2dtransforms\\view\\mainwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\samples\\2dtransforms\\view\\mainwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\samples\\2dtransforms\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\samples\\2dtransforms\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\samples\\2dtransforms\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\samples\\2dtransforms\\viewmodel\\transformexampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\samples\\2dtransforms\\viewmodel\\transformexampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\samples\\2dtransforms\\viewmodel\\transformexampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\samples\\2dtransforms\\view\\transformexampleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\samples\\2dtransforms\\view\\transformexampleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\mvvm\\viewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\mvvm\\viewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\categoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\categoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\mvvm\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\mvvm\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\networks\\tcptool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\networks\\tcptool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\utils\\logutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\utils\\logutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roots\\AppData\\Local\\SourceServer\\a90d2f628346525312fc731f3e3f4f2f8134c5ef08bd65569a8efed112f51a28\\src\\Caliburn.Micro.Platform\\ActionMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\samples\\2dtransforms\\view\\mainwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\samples\\2dtransforms\\view\\mainwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -93,194 +65,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShellView.xaml",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\ShellView.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Views\\ShellView.xaml",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\ShellView.xaml",
-              "RelativeToolTip": "WPFDemo\\Views\\ShellView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T06:45:33.082Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LogUtil.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\LogUtil.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Utils\\LogUtil.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\LogUtil.cs",
-              "RelativeToolTip": "WPFDemo\\Utils\\LogUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T06:10:29.828Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\NetWorks\\SimpleTCP\\Message.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Utils\\NetWorks\\SimpleTCP\\Message.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\NetWorks\\SimpleTCP\\Message.cs",
-              "RelativeToolTip": "WPFDemo\\Utils\\NetWorks\\SimpleTCP\\Message.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T08:43:31.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SimpleTcpServer.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\NetWorks\\SimpleTCP\\SimpleTcpServer.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Utils\\NetWorks\\SimpleTCP\\SimpleTcpServer.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\NetWorks\\SimpleTCP\\SimpleTcpServer.cs",
-              "RelativeToolTip": "WPFDemo\\Utils\\NetWorks\\SimpleTCP\\SimpleTcpServer.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAtwKEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T08:32:41.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SimpleTcpClient.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\NetWorks\\SimpleTCP\\SimpleTcpClient.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Utils\\NetWorks\\SimpleTCP\\SimpleTcpClient.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\NetWorks\\SimpleTCP\\SimpleTcpClient.cs",
-              "RelativeToolTip": "WPFDemo\\Utils\\NetWorks\\SimpleTCP\\SimpleTcpClient.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAkwA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T08:28:09.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TCPUtil.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\NetWorks\\TCPUtil.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Utils\\NetWorks\\TCPUtil.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\NetWorks\\TCPUtil.cs",
-              "RelativeToolTip": "WPFDemo\\Utils\\NetWorks\\TCPUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:57:28.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "WPFDemo\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:43:27.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\HomeViewModel.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\HomeViewModel.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\HomeViewModel.cs",
-              "RelativeToolTip": "WPFDemo\\ViewModels\\HomeViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T07:05:55.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\App.xaml",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml",
-              "RelativeToolTip": "WPFDemo\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T06:27:17.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TransformExampleView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Samples\\2DTransforms\\View\\TransformExampleView.xaml.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Samples\\2DTransforms\\View\\TransformExampleView.xaml.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Samples\\2DTransforms\\View\\TransformExampleView.xaml.cs",
-              "RelativeToolTip": "WPFDemo\\Samples\\2DTransforms\\View\\TransformExampleView.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T07:54:46.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryView.xaml",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\CategoryView.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Views\\CategoryView.xaml",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\CategoryView.xaml",
-              "RelativeToolTip": "WPFDemo\\Views\\CategoryView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T07:52:35.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ActionMessage.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\AppData\\Local\\SourceServer\\a90d2f628346525312fc731f3e3f4f2f8134c5ef08bd65569a8efed112f51a28\\src\\Caliburn.Micro.Platform\\ActionMessage.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\a90d2f628346525312fc731f3e3f4f2f8134c5ef08bd65569a8efed112f51a28\\src\\Caliburn.Micro.Platform\\ActionMessage.cs",
-              "ToolTip": "C:\\Users\\roots\\AppData\\Local\\SourceServer\\a90d2f628346525312fc731f3e3f4f2f8134c5ef08bd65569a8efed112f51a28\\src\\Caliburn.Micro.Platform\\ActionMessage.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\a90d2f628346525312fc731f3e3f4f2f8134c5ef08bd65569a8efed112f51a28\\src\\Caliburn.Micro.Platform\\ActionMessage.cs",
-              "ViewState": "AgIAAB0BAAAAAAAAAAAQwDEBAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T06:48:12.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "NLog.config",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\NLog.config",
-              "RelativeDocumentMoniker": "WPFDemo\\NLog.config",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\NLog.config",
-              "RelativeToolTip": "WPFDemo\\NLog.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-03T06:29:44.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeView.xaml",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\HomeView.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Views\\HomeView.xaml",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\HomeView.xaml",
-              "RelativeToolTip": "WPFDemo\\Views\\HomeView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-27T09:51:14.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TransformExampleView.xaml",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Samples\\2DTransforms\\View\\TransformExampleView.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Samples\\2DTransforms\\View\\TransformExampleView.xaml",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Samples\\2DTransforms\\View\\TransformExampleView.xaml",
-              "RelativeToolTip": "WPFDemo\\Samples\\2DTransforms\\View\\TransformExampleView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T07:55:03.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MainWindowView.xaml",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Samples\\2DTransforms\\View\\MainWindowView.xaml",
               "RelativeDocumentMoniker": "WPFDemo\\Samples\\2DTransforms\\View\\MainWindowView.xaml",
@@ -288,55 +73,161 @@
               "RelativeToolTip": "WPFDemo\\Samples\\2DTransforms\\View\\MainWindowView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-03T07:52:51.486Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
+              "Title": "ViewModelCommand.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\ViewModelCommand.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\MVVM\\ViewModelCommand.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\ViewModelCommand.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\MVVM\\ViewModelCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:18:13.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\Command.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\MVVM\\Command.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\Command.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\MVVM\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:18:08.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TransformExampleViewModel.cs",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Samples\\2DTransforms\\ViewModel\\TransformExampleViewModel.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Samples\\2DTransforms\\ViewModel\\TransformExampleViewModel.cs",
               "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Samples\\2DTransforms\\ViewModel\\TransformExampleViewModel.cs",
               "RelativeToolTip": "WPFDemo\\Samples\\2DTransforms\\ViewModel\\TransformExampleViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T07:54:25.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\CategoryViewModel.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\CategoryViewModel.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\CategoryViewModel.cs",
-              "RelativeToolTip": "WPFDemo\\ViewModels\\CategoryViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T07:52:46.221Z"
+              "WhenOpened": "2025-03-07T02:17:35.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Bootstrapper.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Bootstrapper.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Bootstrapper.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Bootstrapper.cs",
-              "RelativeToolTip": "WPFDemo\\Bootstrapper.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T08:49:46.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Samples\\2DTransforms\\ViewModel\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Samples\\2DTransforms\\ViewModel\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Samples\\2DTransforms\\ViewModel\\MainWindowViewModel.cs",
               "RelativeToolTip": "WPFDemo\\Samples\\2DTransforms\\ViewModel\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T07:53:45.287Z"
+              "WhenOpened": "2025-03-07T02:17:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NuGet.Build.Tasks.Pack.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\NuGet.Build.Tasks.Pack\\buildCrossTargeting\\NuGet.Build.Tasks.Pack.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\NuGet.Build.Tasks.Pack\\buildCrossTargeting\\NuGet.Build.Tasks.Pack.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\NuGet.Build.Tasks.Pack\\buildCrossTargeting\\NuGet.Build.Tasks.Pack.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\NuGet.Build.Tasks.Pack\\buildCrossTargeting\\NuGet.Build.Tasks.Pack.targets",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAhwNwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-07T02:16:55.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\MainWindow.xaml",
+              "RelativeToolTip": "WPFDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-07T02:15:58.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.config",
+              "RelativeDocumentMoniker": "WPFDemo\\App.config",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.config",
+              "RelativeToolTip": "WPFDemo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-07T02:13:15.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:12:46.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TCPTool.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAJ0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:59:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogUtil.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\LogUtil.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Utils\\LogUtil.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Utils\\LogUtil.cs",
+              "RelativeToolTip": "WPFDemo\\Utils\\LogUtil.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:41:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\NLog.config",
+              "RelativeDocumentMoniker": "WPFDemo\\NLog.config",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\NLog.config",
+              "RelativeToolTip": "WPFDemo\\NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-07T01:41:18.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\App.xaml",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml",
+              "RelativeToolTip": "WPFDemo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-07T01:41:17.162Z",
+              "EditorCaption": ""
             }
           ]
         }

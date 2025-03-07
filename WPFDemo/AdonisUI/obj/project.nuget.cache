@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xO9/h62QC4g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roots\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\roots\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512",
+    "C:\\Users\\roots\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
