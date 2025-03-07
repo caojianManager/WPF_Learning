@@ -1,6 +1,5 @@
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.AssemblyReference.cache
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Samples\2DTransforms\View\TransformExampleView.baml
-C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Samples\2DTransforms\View\MainWindowView.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Samples\2DTransforms\View\TransformExampleView.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\App.g.cs
@@ -24,7 +23,6 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Microsoft.Xaml.Beh
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Newtonsoft.Json.xml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\NLog.xml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\App.baml
-C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Samples\2DTransforms\View\MainWindowView.baml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
@@ -33,3 +31,5 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.Cor
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.Up2Date
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml

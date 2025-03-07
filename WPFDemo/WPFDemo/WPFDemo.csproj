@@ -104,6 +104,7 @@
     <Compile Include="Framework\NetWorks\SimpleTCP\SimpleTcpClient.cs" />
     <Compile Include="Framework\NetWorks\SimpleTCP\SimpleTcpServer.cs" />
     <Compile Include="Framework\NetWorks\TCPTool.cs" />
+    <Compile Include="ViewModels\MainWindowViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -135,7 +136,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Func\" />
-    <Folder Include="ViewModels\" />
     <Folder Include="Views\" />
   </ItemGroup>
   <ItemGroup>
