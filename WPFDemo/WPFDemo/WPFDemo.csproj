@@ -84,8 +84,9 @@
     <Compile Include="Framework\MVVM\Command.cs" />
     <Compile Include="Framework\MVVM\ViewModelBase.cs" />
     <Compile Include="Framework\MVVM\ViewModelCommand.cs" />
-    <Compile Include="ViewModels\Scripts\ApplicationNavigationGroup.cs" />
-    <Compile Include="ViewModels\Scripts\IApplicationContentView.cs" />
+    <Compile Include="ViewModels\OverviewSampleViewModel.cs" />
+    <Compile Include="ViewModels\Scripts\enum\ApplicationNavigationGroup.cs" />
+    <Compile Include="ViewModels\Scripts\Interfaces\IApplicationContentView.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
     </Compile>
@@ -138,7 +139,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Func\" />
-    <Folder Include="Views\" />
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainWindow.xaml">
@@ -150,6 +150,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Samples\2DTransforms\View\TransformExampleView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\OverviewSampleView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

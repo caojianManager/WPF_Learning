@@ -33,3 +33,4 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Release\Samples\2DTransf
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Release\MainWindow.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Release\Samples\2DTransforms\View\TransformExampleView.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Release\MainWindow.baml
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Release\Views\OverviewSampleView.baml

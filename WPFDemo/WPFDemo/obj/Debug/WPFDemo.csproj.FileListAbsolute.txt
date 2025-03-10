@@ -33,3 +33,4 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\OverviewSampleView.baml
