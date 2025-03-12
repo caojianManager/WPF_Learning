@@ -6,8 +6,15 @@
 
     <DataTemplate DataType="{x:Type viewModels:OverviewSampleViewModel}">
         <ScrollViewer>
-            <!--<Button Width=" 100" Height="100" Content="TestBtn"></Button>-->
-            <Border Background="Black"/>
+            <Grid Margin="32">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="{adonisUi:Space 2}"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Welcome to Adonis UI Demo App"
+                           FontSize="18"/>
+                <Grid Grid.Row="1"></Grid>
+            </Grid>
         </ScrollViewer>
     </DataTemplate>
 </ResourceDictionary>
