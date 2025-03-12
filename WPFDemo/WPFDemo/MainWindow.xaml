@@ -8,7 +8,7 @@
                               xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                               xmlns:local="clr-namespace:WPFDemo"
                               xmlns:viewModels="clr-namespace:WPFDemo.ViewModels"
-                              xmlns:converters="clr-namespace:Converters"
+                              xmlns:converters="clr-namespace:Common"
                               mc:Ignorable="d"
                               Title="MainWindow" 
                               Height="720" 

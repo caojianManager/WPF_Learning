@@ -81,8 +81,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Common\Singleton.cs" />
-    <Compile Include="Converters\BoolToInverseBoolConverter.cs" />
+    <Compile Include="Common\Converters\BoolToInverseBoolConverter.cs" />
     <Compile Include="Framework\MVVM\Command.cs" />
+    <Compile Include="Framework\MVVM\Commands\RelayCommand.cs" />
     <Compile Include="Framework\MVVM\ViewModelBase.cs" />
     <Compile Include="Framework\MVVM\ViewModelCommand.cs" />
     <Compile Include="ViewModels\OverviewSampleViewModel.cs" />
@@ -154,11 +155,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Styles\ControlReferenceSectionStyle.xaml">
+    <Page Include="Views\Styles\ControlReferenceSectionStyle.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Styles\ItemGroupLabelStyle.xaml">
+    <Page Include="Views\Styles\ItemGroupLabelStyle.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

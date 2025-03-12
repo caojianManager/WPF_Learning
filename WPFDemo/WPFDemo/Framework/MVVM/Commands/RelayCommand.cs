@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PrinterSendMessage.Framework.MVVM
+namespace Framework.MVVM.Commands
 {
     class RelayCommand : Command
     {
