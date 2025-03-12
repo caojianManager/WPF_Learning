@@ -81,6 +81,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Common\Singleton.cs" />
+    <Compile Include="Converters\BoolToInverseBoolConverter.cs" />
     <Compile Include="Framework\MVVM\Command.cs" />
     <Compile Include="Framework\MVVM\ViewModelBase.cs" />
     <Compile Include="Framework\MVVM\ViewModelCommand.cs" />
@@ -153,7 +154,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Styles\ControlReferenceSectionStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles\ItemGroupLabelStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\OverviewSampleView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Views.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -167,6 +180,9 @@
       <Project>{5a871e55-9fe5-c702-4b22-bb19d8369046}</Project>
       <Name>AdonisUI</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

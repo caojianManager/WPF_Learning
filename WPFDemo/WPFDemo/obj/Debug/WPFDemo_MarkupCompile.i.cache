@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\App.xaml
-3-2052833098
+7353476019
 
-241019502668
+281047497165
 24-911090748
-MainWindow.xaml;Samples\2DTransforms\View\MainWindowView.xaml;Samples\2DTransforms\View\TransformExampleView.xaml;
+MainWindow.xaml;Samples\2DTransforms\View\MainWindowView.xaml;Samples\2DTransforms\View\TransformExampleView.xaml;Styles\ControlReferenceSectionStyle.xaml;Styles\ItemGroupLabelStyle.xaml;Views\OverviewSampleView.xaml;Views\Views.xaml;
 
-False
+True
 

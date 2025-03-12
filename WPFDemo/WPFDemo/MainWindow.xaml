@@ -8,10 +8,11 @@
                               xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                               xmlns:local="clr-namespace:WPFDemo"
                               xmlns:viewModels="clr-namespace:WPFDemo.ViewModels"
+                              xmlns:converters="clr-namespace:Converters"
                               mc:Ignorable="d"
                               Title="MainWindow" 
-                              Height="450" 
-                              Width="800">
+                              Height="720" 
+                              Width="1280">
 
     <adonisControls:AdonisWindow.Style>
         <Style TargetType="Window" BasedOn="{StaticResource {x:Type Window}}"/>
@@ -19,9 +20,9 @@
 
     <Window.Resources>
         <ResourceDictionary>
-            <!--<ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="Views.xaml"/>
-            </ResourceDictionary.MergedDictionaries>-->
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Views/Views.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
 
             <Style x:Key="NavigationGroupHeaderStyle"
                TargetType="TextBlock">
@@ -159,7 +160,7 @@
                                                                     <RowDefinition Height="Auto"/>
                                                                     <RowDefinition Height="*"/>
                                                                     <RowDefinition Height="{adonisUi:Space 2}"/>
-                                           
+
                                                                 </Grid.RowDefinitions>
                                                                 <TextBlock x:Name="GroupHeader"
                                                                 Style="{StaticResource NavigationGroupHeaderStyle}"/>
@@ -187,7 +188,7 @@
                                                                             Value="REFERENCE"/>
                                                                 </DataTrigger>
                                                             </ControlTemplate.Triggers>
-                                                        </ControlTemplate>  
+                                                        </ControlTemplate>
                                                     </Setter.Value>
                                                 </Setter>
                                             </Style>
@@ -196,14 +197,34 @@
                                 </ListBox.GroupStyle>
 
                             </ListBox>
-
-
                         </Grid>
                     </GroupBox>
                 </Grid>
 
-                <Grid Grid.Column="1">
+                <!--Content View-->
+                <Grid Grid.Column="1" 
+                      ClipToBounds="True">
+                    <ContentControl ContentTemplate="{DynamicResource {x:Static adonisUi:Icons.AdonisUIGrayscale}}"
+                                    Foreground="{DynamicResource {x:Static adonisUi:Brushes.Layer1BorderBrush}}"
+                                    Focusable="False"
+                                    HorizontalAlignment="Right"
+                                    VerticalAlignment="Bottom"
+                                    Opacity="0.4"
+                                    Width="600"
+                                    Height="600"
+                                    Margin="0, 0, -64, -136"/>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="{Binding TitleBarActualHeight, RelativeSource={RelativeSource AncestorType={x:Type adonisControls:AdonisWindow}}}"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
 
+                        <!-- Selected Content -->
+                        <ContentControl Grid.Row="1" 
+                                        Content="{Binding SelectedPage, ValidatesOnDataErrors=False, ValidatesOnNotifyDataErrors=False}" 
+                                        IsEnabled="{Binding IsReadOnly, Converter={x:Static converters:BoolToInverseBoolConverter.Instance}}"/> 
+
+                    </Grid>
                 </Grid>
 
             </Grid>

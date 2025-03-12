@@ -93,7 +93,8 @@ namespace WPFDemo.ViewModels {
             //数据过滤
             PagesCollectionView.Filter = FilterPages;
             //对数据进行分组
-            PagesCollectionView.GroupDescriptions.Add(new PropertyGroupDescription(nameof(IApplicationContentView.Group))); 
+            PagesCollectionView.GroupDescriptions.Add(new PropertyGroupDescription(nameof(IApplicationContentView.Group)));
+            SelectedPage = Pages.FirstOrDefault();
 
             //Config Navigation Collection View
             //_navigationGroups = new ObservableCollection<ApplicationNavigationGroup>(Enum.GetValues(typeof(ApplicationNavigationGroup)).Cast<ApplicationNavigationGroup>());
