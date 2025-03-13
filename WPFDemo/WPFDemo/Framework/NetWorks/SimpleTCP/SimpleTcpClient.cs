@@ -6,6 +6,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace SimpleTCP
 {
@@ -23,6 +24,16 @@ namespace SimpleTCP
 		public byte Delimiter { get; set; }
 		public System.Text.Encoding StringEncoder { get; set; }
 		private TcpClient _client = null;
+		
+		public bool IsConnected
+		{
+			get
+			{
+				if (_client != null)
+					return _client.Connected;
+				return false;
+			}
+		}
 
 		public event EventHandler<Message> DelimiterDataReceived;
 		public event EventHandler<Message> DataReceived;
@@ -38,10 +49,16 @@ namespace SimpleTCP
 				throw new ArgumentNullException("hostNameOrIpAddress");
 			}
 
-			_client = new TcpClient();
-			_client.Connect(hostNameOrIpAddress, port);
+			try
+			{
+				_client = new TcpClient();
+				_client.Connect(hostNameOrIpAddress, port);
 
-			StartRxThread();
+				StartRxThread();
+			}
+			catch (Exception ex) {
+				MessageBox.Show(ex.Message.ToString());
+			}
 
 			return this;
 		}

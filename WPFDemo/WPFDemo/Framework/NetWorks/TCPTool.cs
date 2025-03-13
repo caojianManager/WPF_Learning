@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Interop;
 using Common;
 
-namespace WPFDemo.Utils.NetWorks
+namespace SimpleTCP
 {
     class TCPTool : Singleton<TCPTool>
     {
@@ -120,7 +120,7 @@ namespace WPFDemo.Utils.NetWorks
         #endregion
 
         #region 客户端
-        public void InitClient()
+        private void InitClient()
         {
             _simpleTcpClient = new SimpleTcpClient();
             _simpleTcpClient.Delimiter = Encoding.ASCII.GetBytes("\r")[0];
@@ -131,14 +131,16 @@ namespace WPFDemo.Utils.NetWorks
         //启动客户端连接
         public void StartClient(IPAddress ipAddress, int port)
         {
-            if(_simpleTcpClient != null) 
-                _simpleTcpClient.Connect(ipAddress.ToString(), port);
+            if(_simpleTcpClient == null)
+                InitClient();
+            _simpleTcpClient.Connect(ipAddress.ToString(), port);
         }
         //停止客户端连接
         public void StopClient()
         {
             if (_simpleTcpClient != null)
                 _simpleTcpClient.Disconnect();
+                _simpleTcpClient=null;
         }
         //向服务器发送数据
         public void SendDataToServer(string data)
@@ -146,15 +148,28 @@ namespace WPFDemo.Utils.NetWorks
             if (_simpleTcpClient != null)
                 _simpleTcpClient.Write(data);
         }
+
+        public void SendDataToServer(byte[] data)
+        {
+            if (_simpleTcpClient != null)
+                _simpleTcpClient.Write(data);
+        }
+
+        public bool ClientIsConnected()
+        {
+            if (_simpleTcpClient != null)
+                return _simpleTcpClient.IsConnected;
+            return false;
+        }
         //设置分割数据接收事件-Client
         public void SetDelimiterDataClientReceivedAction(Action<Message> delimiterDataReceivedClientAction)
         {
-            _delimiterDataReceivedClientAction = delimiterDataReceivedClientAction;
+            _delimiterDataReceivedClientAction += delimiterDataReceivedClientAction;
         }
         //设置数据接收事件-Client
         public void SetDataReceivedClientAction(Action<Message> dataReceivedClientAction)
         {
-            _dataReceivedClientAction = dataReceivedClientAction;
+            _dataReceivedClientAction += dataReceivedClientAction;
         }
         private void DelimiterDataReceivedClient(object sender, Message msg)
         {
