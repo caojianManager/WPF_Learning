@@ -15,6 +15,7 @@ namespace Framework.WindowManager
             var view = ViewLocator.LocateForModel(viewModel);
             if (view is Window window)
             {
+                window.DataContext = viewModel; // 绑定 ViewModel
                 window.Show();
             }
         }
@@ -45,6 +46,24 @@ namespace Framework.WindowManager
                 window.ShowDialog();
             }
         }
+
+        // 异步显示窗口
+        public async Task ShowWindowAsync(object viewModel)
+        {
+            var view = ViewLocator.LocateForModel(viewModel);
+            if (view is Window window)
+            {
+                await Task.Run(() =>
+                {
+                    Application.Current.Dispatcher.Invoke(() =>
+                    {
+                        window.DataContext = viewModel; // 绑定 ViewModel
+                        window.Show();
+                    });
+                });
+            }  
+        }
+
     }
 
 }

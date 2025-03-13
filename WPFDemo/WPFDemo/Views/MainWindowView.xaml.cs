@@ -37,7 +37,6 @@ namespace WPFDemo.Views
 
         public MainWindowView()
         {
-            DataContext = new MainWindowViewModel();
             InitializeComponent();
         }
 

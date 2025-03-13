@@ -23,7 +23,7 @@ namespace WPFDemo
         public void OnStartUp()
         {
             IWindowManager iWindowManager = _simpleIoC.Resolve<IWindowManager>();
-            iWindowManager.ShowWindow(new MainWindowViewModel());
+            iWindowManager.ShowWindowAsync(new MainWindowViewModel());
         }
 
         private void Config()
