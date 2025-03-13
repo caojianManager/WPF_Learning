@@ -13,6 +13,9 @@ namespace WPFDemo
     class AppBootstrapper : Singleton<AppBootstrapper>
     {
         private SimpleIoC _simpleIoC = new SimpleIoC();
+        public SimpleIoC SimpleIoC {
+            get => _simpleIoC;
+        }
 
         public AppBootstrapper()
         {

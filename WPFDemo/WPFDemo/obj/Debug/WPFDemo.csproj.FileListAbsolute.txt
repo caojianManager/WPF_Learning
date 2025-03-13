@@ -35,3 +35,5 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\Styles\ItemG
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\MainWindowView.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\MainWindowView.baml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\FunctionView.baml
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\EPITools\EPIToolWindowView.g.cs
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\EPITools\EPIToolWindowView.baml

@@ -91,6 +91,10 @@
     <Compile Include="Framework\WindowManager\IWindowManager.cs" />
     <Compile Include="Framework\WindowManager\ViewLocator.cs" />
     <Compile Include="Framework\WindowManager\WindowManager.cs" />
+    <Compile Include="Functions\EPITools\EPIToolWindowView.xaml.cs">
+      <DependentUpon>EPIToolWindowView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Functions\EPITools\EPIToolWindowViewModel.cs" />
     <Compile Include="ViewModels\OverviewSampleViewModel.cs" />
     <Compile Include="ViewModels\Scripts\enum\ApplicationNavigationGroup.cs" />
     <Compile Include="ViewModels\Scripts\Interfaces\IApplicationContentView.cs" />
@@ -138,10 +142,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Functions\EPITools\" />
     <Folder Include="Func\" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="Functions\EPITools\EPIToolWindowView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\FunctionView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using System.Windows.Media.Media3D;
 
 namespace Framework.WindowManager
 {
@@ -59,6 +60,15 @@ namespace Framework.WindowManager
         public static void ClearCache()
         {
             ViewCache.Clear();
+        }
+
+        public static void ClearCache(object model)
+        {
+            Type viewModelType = model.GetType();
+            if (ViewCache.ContainsKey(viewModelType))
+            {
+                ViewCache.Remove(viewModelType);
+            }
         }
 
         // 获取缓存中的视图实例

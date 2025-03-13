@@ -58,6 +58,11 @@ namespace Framework.WindowManager
                     Application.Current.Dispatcher.Invoke(() =>
                     {
                         window.DataContext = viewModel; // 绑定 ViewModel
+                        window.Closing += (sender, e) =>
+                        {
+                            // 清除缓存
+                            ViewLocator.ClearCache(viewModel);
+                        };
                         window.Show();
                     });
                 });
