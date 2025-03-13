@@ -80,12 +80,17 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="AppBootstrapper.cs" />
+    <Compile Include="Common\SimpleIOC.cs" />
     <Compile Include="Common\Singleton.cs" />
     <Compile Include="Common\Converters\BoolToInverseBoolConverter.cs" />
     <Compile Include="Framework\MVVM\Command.cs" />
     <Compile Include="Framework\MVVM\Commands\RelayCommand.cs" />
     <Compile Include="Framework\MVVM\ViewModelBase.cs" />
     <Compile Include="Framework\MVVM\ViewModelCommand.cs" />
+    <Compile Include="Framework\WindowManager\IWindowManager.cs" />
+    <Compile Include="Framework\WindowManager\ViewLocator.cs" />
+    <Compile Include="Framework\WindowManager\WindowManager.cs" />
     <Compile Include="ViewModels\OverviewSampleViewModel.cs" />
     <Compile Include="ViewModels\Scripts\enum\ApplicationNavigationGroup.cs" />
     <Compile Include="ViewModels\Scripts\Interfaces\IApplicationContentView.cs" />
@@ -93,14 +98,6 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Models\Category.cs" />
-    <Compile Include="Samples\2DTransforms\ViewModel\MainWindowViewModel.cs" />
-    <Compile Include="Samples\2DTransforms\ViewModel\TransformExampleViewModel.cs" />
-    <Compile Include="Samples\2DTransforms\View\MainWindowView.xaml.cs">
-      <DependentUpon>MainWindowView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Samples\2DTransforms\View\TransformExampleView.xaml.cs">
-      <DependentUpon>TransformExampleView.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Utils\LogUtil.cs" />
     <Compile Include="Framework\NetWorks\SimpleTCP\Message.cs" />
     <Compile Include="Framework\NetWorks\SimpleTCP\Server\ConnectedClient.cs" />
@@ -144,14 +141,6 @@
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainWindow.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Samples\2DTransforms\View\MainWindowView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Samples\2DTransforms\View\TransformExampleView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

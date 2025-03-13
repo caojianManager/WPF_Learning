@@ -7,7 +7,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Interop;
-using WPFDemo.Common;
+using Common;
 
 namespace WPFDemo.Utils.NetWorks
 {

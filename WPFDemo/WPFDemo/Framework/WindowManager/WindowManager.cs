@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
-namespace Framework.WindowsManager
+namespace Framework.WindowManager
 {
-    using System.Windows;
-
     public class WindowManager : IWindowManager
     {
         public void ShowWindow(object viewModel)

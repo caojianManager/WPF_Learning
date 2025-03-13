@@ -1,16 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Reflection;
 
-namespace WPFDemo.Framework.WindowsManager
+namespace Framework.WindowManager
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Reflection;
-
     public static class ViewLocator
     {
         // 用于缓存视图实例，以提高性能
@@ -39,14 +33,14 @@ namespace WPFDemo.Framework.WindowsManager
             // 先尝试自定义的映射规则
             if (CustomViewMappings.ContainsKey(viewModelType))
             {
-                Type viewTypeCustom = CustomViewMappings[viewModelType];
-                var viewInstance = Activator.CreateInstance(viewTypeCustom);
+                Type viewTypeValue = CustomViewMappings[viewModelType];
+                var viewInstance = Activator.CreateInstance(viewTypeValue);
                 ViewCache[viewModelType] = viewInstance;  // 缓存视图实例
                 return viewInstance;
             }
 
             // 默认的视图解析规则：根据视图模型名称推断视图名称
-            string viewTypeName = viewModelType.Name.Replace("Model", "View");
+            string viewTypeName = viewModelType.Name.Replace("ViewModel", "View");
             Type viewType = Assembly.GetExecutingAssembly()
                 .GetTypes()
                 .FirstOrDefault(t => t.Name == viewTypeName);
@@ -77,6 +71,5 @@ namespace WPFDemo.Framework.WindowsManager
             return null;
         }
     }
-
 
 }
