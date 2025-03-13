@@ -19,7 +19,6 @@ namespace WPFDemo
             Config();
         }
 
-        
         public void OnStartUp()
         {
             IWindowManager iWindowManager = _simpleIoC.Resolve<IWindowManager>();
@@ -31,6 +30,5 @@ namespace WPFDemo
             _simpleIoC.Register<IWindowManager, WindowManager>();
         }
 
-        
     }
 }

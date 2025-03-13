@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\views\\mainwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\mainwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\viewmodels\\overviewsampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\viewmodels\\overviewsampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\appbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\appbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\views\\functionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\functionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\viewmodels\\functionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\viewmodels\\functionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\overviewsampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\overviewsampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\viewmodels\\scripts\\enum\\applicationnavigationgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\viewmodels\\scripts\\enum\\applicationnavigationgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\WindowManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:WPFDemo\\Framework\\WindowManager\\WindowManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\windowmanager\\iwindowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\windowmanager\\iwindowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\roots\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\windowmanager\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\windowmanager\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\SimpleIOC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:WPFDemo\\Common\\SimpleIOC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\appbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\appbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\common\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\common\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\overviewsampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\overviewsampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roots\\AppData\\Local\\Temp\\.vsdbgsrc\\f34dab59d0b0f372a9fd5f775a8480558e927180f913f05b3d4f974bda6d7186\\FrameworkTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -65,10 +97,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPFDemo\\Framework\\WindowsManager\\IWindowManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\WindowManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:WPFDemo\\Framework\\WindowManager\\WindowManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPFDemo\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -84,23 +112,199 @@
       "DocumentGroups": [
         {
           "DockedWidth": 468,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
+              "Title": "MainWindowView.xaml",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\MainWindowView.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Views\\MainWindowView.xaml",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\MainWindowView.xaml*",
+              "RelativeToolTip": "WPFDemo\\Views\\MainWindowView.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T06:44:35.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WPFDemo\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAmwIIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:43:58.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionView.xaml",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\FunctionView.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Views\\FunctionView.xaml",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\FunctionView.xaml",
+              "RelativeToolTip": "WPFDemo\\Views\\FunctionView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T06:42:15.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationNavigationGroup.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\Scripts\\enum\\ApplicationNavigationGroup.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\Scripts\\enum\\ApplicationNavigationGroup.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\Scripts\\enum\\ApplicationNavigationGroup.cs",
+              "RelativeToolTip": "WPFDemo\\ViewModels\\Scripts\\enum\\ApplicationNavigationGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:28:57.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OverviewSampleView.xaml",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\OverviewSampleView.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Views\\OverviewSampleView.xaml",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\OverviewSampleView.xaml",
+              "RelativeToolTip": "WPFDemo\\Views\\OverviewSampleView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T02:54:09.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "WindowManager.cs",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
               "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
               "RelativeToolTip": "WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwC0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:24:17.627Z"
+              "WhenOpened": "2025-03-13T03:24:17.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "AppBootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\AppBootstrapper.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\AppBootstrapper.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\AppBootstrapper.cs",
+              "RelativeToolTip": "WPFDemo\\AppBootstrapper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:15:43.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OverviewSampleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\OverviewSampleViewModel.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\OverviewSampleViewModel.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\OverviewSampleViewModel.cs",
+              "RelativeToolTip": "WPFDemo\\ViewModels\\OverviewSampleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:40:41.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FunctionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\FunctionViewModel.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\FunctionViewModel.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\FunctionViewModel.cs",
+              "RelativeToolTip": "WPFDemo\\ViewModels\\FunctionViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:38:45.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWindowManager.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\IWindowManager.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\WindowManager\\IWindowManager.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\IWindowManager.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\WindowManager\\IWindowManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:25:04.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemGroupLabelStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
+              "RelativeToolTip": "WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T02:59:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\App.xaml",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml",
+              "RelativeToolTip": "WPFDemo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T02:42:22.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\Singleton.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Common\\Singleton.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\Singleton.cs",
+              "RelativeToolTip": "WPFDemo\\Common\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:16:12.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TCPTool.cs",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:42:46.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.config",
+              "RelativeDocumentMoniker": "WPFDemo\\App.config",
+              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.config",
+              "RelativeToolTip": "WPFDemo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-13T02:51:52.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "SimpleIOC.cs",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\SimpleIOC.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Common\\SimpleIOC.cs",
@@ -112,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "FrameworkTemplate.cs",
               "DocumentMoniker": "C:\\Users\\roots\\AppData\\Local\\Temp\\.vsdbgsrc\\f34dab59d0b0f372a9fd5f775a8480558e927180f913f05b3d4f974bda6d7186\\FrameworkTemplate.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f34dab59d0b0f372a9fd5f775a8480558e927180f913f05b3d4f974bda6d7186\\FrameworkTemplate.cs",
@@ -125,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml.cs",
               "RelativeDocumentMoniker": "WPFDemo\\App.xaml.cs",
@@ -137,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ViewLocator.cs",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\ViewLocator.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Framework\\WindowManager\\ViewLocator.cs",
@@ -150,19 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppBootstrapper.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\AppBootstrapper.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\AppBootstrapper.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\AppBootstrapper.cs",
-              "RelativeToolTip": "WPFDemo\\AppBootstrapper.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIAwwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:15:43.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPFDemo\\MainWindow.xaml",
@@ -173,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFDemo\\MainWindow.xaml.cs",
@@ -185,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "IWindowManager.cs",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowsManager\\IWindowManager.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Framework\\WindowsManager\\IWindowManager.cs",
@@ -197,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "SimpleIoC.cs",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\IOC\\SimpleIoC.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Framework\\IOC\\SimpleIoC.cs",
@@ -209,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "WindowManager.cs",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowsManager\\WindowManager.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Framework\\WindowsManager\\WindowManager.cs",
@@ -221,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "ResourcePart.cs",
               "DocumentMoniker": "C:\\Users\\roots\\AppData\\Local\\Temp\\.vsdbgsrc\\c6ee7f6fec133611eb2a064e1a788d1d2474410b0c2beae8c7d187c8d89dcad0\\ResourcePart.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6ee7f6fec133611eb2a064e1a788d1d2474410b0c2beae8c7d187c8d89dcad0\\ResourcePart.cs",
@@ -234,83 +426,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ItemGroupLabelStyle.xaml",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
-              "RelativeToolTip": "WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-13T02:59:11.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\App.xaml",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml",
-              "RelativeToolTip": "WPFDemo\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-13T02:42:22.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Singleton.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\Singleton.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Common\\Singleton.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\Singleton.cs",
-              "RelativeToolTip": "WPFDemo\\Common\\Singleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:16:12.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TCPTool.cs",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
-              "RelativeToolTip": "WPFDemo\\Framework\\NetWorks\\TCPTool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T02:42:46.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.config",
-              "RelativeDocumentMoniker": "WPFDemo\\App.config",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.config",
-              "RelativeToolTip": "WPFDemo\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-13T02:51:52.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OverviewSampleView.xaml",
-              "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\OverviewSampleView.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Views\\OverviewSampleView.xaml",
-              "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\OverviewSampleView.xaml",
-              "RelativeToolTip": "WPFDemo\\Views\\OverviewSampleView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-13T02:54:09.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Views.xaml",
               "DocumentMoniker": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Views.xaml",
               "RelativeDocumentMoniker": "WPFDemo\\Views\\Views.xaml",
               "ToolTip": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Views.xaml",
               "RelativeToolTip": "WPFDemo\\Views\\Views.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-13T02:53:31.746Z"
+              "WhenOpened": "2025-03-13T02:53:31.746Z",
+              "EditorCaption": ""
             }
           ]
         }

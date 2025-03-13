@@ -187,6 +187,12 @@
                                                                          TargetName="GroupHeader"
                                                                          Value="REFERENCE"/>
                                                                 </DataTrigger>
+                                                                <DataTrigger Binding="{Binding Name}"
+                                                                              Value="{x:Static viewModels:ApplicationNavigationGroup.Function}">
+                                                                             <Setter Property="Text"
+                                                                             TargetName="GroupHeader"
+                                                                             Value="Function"/>
+                                                                </DataTrigger>
                                                             </ControlTemplate.Triggers>
                                                         </ControlTemplate>
                                                     </Setter.Value>

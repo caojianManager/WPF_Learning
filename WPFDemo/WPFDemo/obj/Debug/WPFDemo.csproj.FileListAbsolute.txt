@@ -34,3 +34,4 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\Styles\Contr
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\Styles\ItemGroupLabelStyle.baml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\MainWindowView.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\MainWindowView.baml
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\FunctionView.baml

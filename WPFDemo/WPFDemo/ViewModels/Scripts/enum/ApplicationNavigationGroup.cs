@@ -11,5 +11,6 @@ namespace WPFDemo.ViewModels
         Samples,
         IssueScenarios,
         Reference,
+        Function,
     }
 }

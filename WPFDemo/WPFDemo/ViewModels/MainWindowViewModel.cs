@@ -128,7 +128,8 @@ namespace WPFDemo.ViewModels {
         private IEnumerable<IApplicationContentView> CreateAllPages()
         {
             yield return new OverviewSampleViewModel();
-           
+            yield return new FunctionViewModel();
+
         }
 
     }
