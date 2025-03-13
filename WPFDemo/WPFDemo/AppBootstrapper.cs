@@ -28,7 +28,6 @@ namespace WPFDemo
 
         private void Config()
         {
-            ViewLocator.RegisterViewMapping<MainWindowViewModel, MainWindow>();
             _simpleIoC.Register<IWindowManager, WindowManager>();
         }
 

@@ -27,10 +27,10 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.Cor
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.Up2Date
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
-C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
-C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\OverviewSampleView.baml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\Views.baml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\Styles\ControlReferenceSectionStyle.baml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\Styles\ItemGroupLabelStyle.baml
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\MainWindowView.baml

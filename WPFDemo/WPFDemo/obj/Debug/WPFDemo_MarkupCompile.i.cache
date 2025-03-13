@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\App.xaml
-51351912330
+5-376839167
 
-30-1433512189
+301830389452
 24-911090748
-MainWindow.xaml;Views\Styles\ControlReferenceSectionStyle.xaml;Views\Styles\ItemGroupLabelStyle.xaml;Views\OverviewSampleView.xaml;Views\Views.xaml;
+Views\MainWindowView.xaml;Views\Styles\ControlReferenceSectionStyle.xaml;Views\Styles\ItemGroupLabelStyle.xaml;Views\OverviewSampleView.xaml;Views\Views.xaml;
 
 False
 

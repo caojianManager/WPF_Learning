@@ -15,12 +15,12 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using WPFDemo.ViewModels;
 
-namespace WPFDemo
+namespace WPFDemo.Views
 {
     /// <summary>
-    /// MainWindow.xaml 的交互逻辑
+    /// MainWindowView.xaml 的交互逻辑
     /// </summary>
-    public partial class MainWindow : AdonisWindow
+    public partial class MainWindowView : AdonisWindow
     {
         public bool IsDark
         {
@@ -28,14 +28,14 @@ namespace WPFDemo
             set => SetValue(IsDarkProperty, value);
         }
 
-        public static readonly DependencyProperty IsDarkProperty = DependencyProperty.Register("IsDark", typeof(bool), typeof(MainWindow), new PropertyMetadata(false, OnIsDarkChanged));
+        public static readonly DependencyProperty IsDarkProperty = DependencyProperty.Register("IsDark", typeof(bool), typeof(MainWindowView), new PropertyMetadata(false, OnIsDarkChanged));
 
         private static void OnIsDarkChanged(DependencyObject d, DependencyPropertyChangedEventArgs e)
         {
-            ((MainWindow)d).ChangeTheme((bool)e.OldValue);
+            ((MainWindowView)d).ChangeTheme((bool)e.OldValue);
         }
 
-        public MainWindow()
+        public MainWindowView()
         {
             DataContext = new MainWindowViewModel();
             InitializeComponent();
