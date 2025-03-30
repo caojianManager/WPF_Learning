@@ -23,3 +23,28 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Ado
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.dll
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.xml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.pdb
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\netcoreapp3.1\AdonisUI.deps.json
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\netcoreapp3.1\AdonisUI.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\netcoreapp3.1\AdonisUI.pdb
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\netcoreapp3.1\AdonisUI.xml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.csproj.AssemblyReference.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI_MarkupCompile.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI_MarkupCompile.lref
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\ColorSchemes\Dark.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\ColorSchemes\Light.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Controls\AdonisWindow.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Controls\MessageBoxWindow.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Controls\RippleHost.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Controls\SplitButton.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Controls\ValidationErrorIndicator.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.g.resources
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.AssemblyInfoInputs.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.AssemblyInfo.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.csproj.CoreCompileInputs.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.sourcelink.json
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.xml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.pdb

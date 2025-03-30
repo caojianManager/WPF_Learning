@@ -5,7 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Interop;
 using Common;
+using Framework.Event;
 using Framework.WindowManager;
+using WPFDemo.Framework.Event;
 using WPFDemo.ViewModels;
 
 namespace WPFDemo
@@ -15,6 +17,12 @@ namespace WPFDemo
         private SimpleIoC _simpleIoC = new SimpleIoC();
         public SimpleIoC SimpleIoC {
             get => _simpleIoC;
+        }
+
+        private EventUtil<EventName> _eventUtil = new EventUtil<EventName>();
+        public EventUtil<EventName> EventUtil
+        {
+            get => _eventUtil;
         }
 
         public AppBootstrapper()

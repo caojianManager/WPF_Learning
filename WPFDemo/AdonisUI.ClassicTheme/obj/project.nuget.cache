@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+clIlhdwCxM=",
+  "dgSpecHash": "Q15x3p+k8e76M0Xp/TjhhFrgiMBU4mJfxliPLuDAGRZUKJRjm8OvPuRUurwoWQM4QfG5Mpd/RSmxmX2BZ5kNmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\roots\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\AdonisUI.ClassicTheme.csproj",
+  "projectFilePath": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\AdonisUI.ClassicTheme.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\roots\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
-    "C:\\Users\\roots\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512",
-    "C:\\Users\\roots\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512",
-    "C:\\Users\\roots\\.nuget\\packages\\adonisui\\1.17.1\\adonisui.1.17.1.nupkg.sha512"
+    "C:\\Users\\Cao Jian\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Cao Jian\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512",
+    "C:\\Users\\Cao Jian\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512"
   ],
   "logs": []
 }

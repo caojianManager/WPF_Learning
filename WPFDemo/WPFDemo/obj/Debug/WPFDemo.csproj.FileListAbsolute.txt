@@ -37,3 +37,42 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\MainWindowVi
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\FunctionView.baml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\EPITools\EPIToolWindowView.g.cs
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\EPITools\EPIToolWindowView.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\AdonisUI.ClassicTheme.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\AdonisUI.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Colorful.Console.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\NLog.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\AdonisUI.ClassicTheme.pdb
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\AdonisUI.ClassicTheme.xml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\AdonisUI.pdb
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\AdonisUI.xml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\NLog.xml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.AssemblyReference.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\Styles\ControlReferenceSectionStyle.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\Styles\ItemGroupLabelStyle.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\EPITools\EPIToolWindowView.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\App.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\EPITools\EPIToolWindowView.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\FunctionView.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\MainWindowView.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\OverviewSampleView.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\Views.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.Up2Date
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb

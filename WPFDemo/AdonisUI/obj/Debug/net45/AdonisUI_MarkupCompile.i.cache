@@ -4,16 +4,16 @@
 library
 C#
 .cs
-C:\Users\roots\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net45\
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net45\
 AdonisUI
 none
 false
-TRACE;DEBUG;NETFRAMEWORK;NET45;;NET30_OR_GREATER;NET35_OR_GREATER;NET40_OR_GREATER;NET45_OR_GREATER
+TRACE;DEBUG;NETFRAMEWORK;NET45;
 
 8-394624160
 
 731461725025
-19-575505085
+19-1063597238
 ColorSchemes\Dark.xaml;ColorSchemes\Light.xaml;Controls\AdonisWindow.xaml;Controls\MessageBoxWindow.xaml;Controls\RippleHost.xaml;Controls\SplitButton.xaml;Controls\ValidationErrorIndicator.xaml;Themes\Generic.xaml;
 
 False

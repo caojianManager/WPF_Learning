@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\roots\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\
 AdonisUI
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 8-394624160
 
 71527300964
-1941850231902
+1941301945481
 ColorSchemes\Dark.xaml;ColorSchemes\Light.xaml;Controls\AdonisWindow.xaml;Controls\MessageBoxWindow.xaml;Controls\RippleHost.xaml;Controls\SplitButton.xaml;Controls\ValidationErrorIndicator.xaml;Themes\Generic.xaml;
 
 False
