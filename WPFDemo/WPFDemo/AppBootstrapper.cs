@@ -7,7 +7,6 @@ using System.Windows.Interop;
 using Common;
 using Framework.Event;
 using Framework.WindowManager;
-using WPFDemo.Framework.Event;
 using WPFDemo.ViewModels;
 
 namespace WPFDemo

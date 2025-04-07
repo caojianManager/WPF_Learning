@@ -1,4 +1,4 @@
-//#define NeedTry
+﻿//#define NeedTry
 using System;
 using System.Collections.Generic;
 
@@ -34,7 +34,7 @@ namespace Framework.Event
                 }
                 catch
                 {
-                    Console.WriteLine( "AddEvent == null, eventName is " + eventName.ToString());
+                    Console.WriteLine("AddEvent == null, eventName is " + eventName.ToString());
                 }
             }
         }
@@ -119,7 +119,7 @@ namespace Framework.Event
                         Console.WriteLine("gateList[i].Target == null, eventName is " + eventName.ToString());
                         continue;
                     }
-                    
+
                     Action action = gateList[i] as Action;
                     if (action != null)
                     {
@@ -161,7 +161,7 @@ namespace Framework.Event
                     {
                         _eventMap[eventName] = gata = Delegate.Remove(gata, gateList[i]);
                         Console.WriteLine("gateList[i].Target == null, eventName is " + eventName.ToString());
-                        
+
                         continue;
                     }
                     Action<T> action = gateList[i] as Action<T>;
@@ -207,7 +207,7 @@ namespace Framework.Event
                     if (str == "null")
                     {
                         _eventMap[eventName] = gata = Delegate.Remove(gata, gateList[i]);
-                        Console.WriteLine( "gateList[i].Target == null, eventName is " + eventName.ToString());
+                        Console.WriteLine("gateList[i].Target == null, eventName is " + eventName.ToString());
                         continue;
                     }
                     Action<T, U> action = gateList[i] as Action<T, U>;
@@ -254,7 +254,7 @@ namespace Framework.Event
                     if (str == "null")
                     {
                         _eventMap[eventName] = gata = Delegate.Remove(gata, gateList[i]);
-                        Console.WriteLine( "gateList[i].Target == null, eventName is " + eventName.ToString());
+                        Console.WriteLine("gateList[i].Target == null, eventName is " + eventName.ToString());
                         continue;
                     }
                     Action<T, U, V> action = gateList[i] as Action<T, U, V>;
@@ -330,7 +330,7 @@ namespace Framework.Event
             if (_eventMap.ContainsKey(eventName))
             {
                 _eventMap.Remove(eventName);
-            }            
+            }
         }
         /// <summary>
         /// 移除事件
@@ -340,7 +340,7 @@ namespace Framework.Event
         public void RemoveEvent(Type eventName, Action eventHandle)
         {
             Delegate gate = null;
-            if (_eventMap.TryGetValue(eventName,out gate))
+            if (_eventMap.TryGetValue(eventName, out gate))
                 _eventMap[eventName] = Delegate.Remove(gate, eventHandle);
         }
         /// <summary>

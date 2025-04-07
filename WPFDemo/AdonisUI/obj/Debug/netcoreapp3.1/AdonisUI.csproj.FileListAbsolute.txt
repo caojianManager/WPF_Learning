@@ -48,3 +48,28 @@ C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.dll
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.xml
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.pdb
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\netcoreapp3.1\AdonisUI.deps.json
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\netcoreapp3.1\AdonisUI.dll
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\netcoreapp3.1\AdonisUI.pdb
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\netcoreapp3.1\AdonisUI.xml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI_MarkupCompile.cache
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI_MarkupCompile.lref
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\ColorSchemes\Dark.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\ColorSchemes\Light.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Controls\AdonisWindow.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Controls\MessageBoxWindow.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Controls\RippleHost.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Controls\SplitButton.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\Controls\ValidationErrorIndicator.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.g.resources
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.sourcelink.json
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.dll
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.xml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\netcoreapp3.1\AdonisUI.pdb

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WPFDemo.Framework.Event
+namespace Framework.Event
 {
-    internal class EventName
+    public enum EventName
     {
+     
     }
 }

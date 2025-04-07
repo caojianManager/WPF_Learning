@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\
 WPFDemo
 none
 false
 DEBUG;TRACE
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\App.xaml
-7-483724615
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\App.xaml
+91219251278
 
-351131920287
-24697100734
-Functions\EPITools\EPIToolWindowView.xaml;Views\FunctionView.xaml;Views\MainWindowView.xaml;Views\Styles\ControlReferenceSectionStyle.xaml;Views\Styles\ItemGroupLabelStyle.xaml;Views\OverviewSampleView.xaml;Views\Views.xaml;
+40198520772
+241968009016
+Framework\UI\Styles\DataGridStyles.xaml;Framework\UI\Templates\LoadingCircleTemplate.xaml;Functions\EPITools\EPIToolWindowView.xaml;Views\FunctionView.xaml;Views\MainWindowView.xaml;Views\Styles\ControlReferenceSectionStyle.xaml;Views\Styles\ItemGroupLabelStyle.xaml;Views\OverviewSampleView.xaml;Views\Views.xaml;
 
-False
+True
 

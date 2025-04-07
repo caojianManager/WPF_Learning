@@ -81,9 +81,16 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="AppBootstrapper.cs" />
-    <Compile Include="Common\SimpleIOC.cs" />
-    <Compile Include="Common\Singleton.cs" />
-    <Compile Include="Common\Converters\BoolToInverseBoolConverter.cs" />
+    <Compile Include="Framework\Common\Config.cs" />
+    <Compile Include="Framework\Common\SimpleIOC.cs" />
+    <Compile Include="Framework\Common\Singleton.cs" />
+    <Compile Include="Framework\Converts\BoolToInverseBoolConverter.cs" />
+    <Compile Include="Framework\Converts\BoolToVisibilityConverter.cs" />
+    <Compile Include="Framework\Converts\ColorToHexStringConverter.cs" />
+    <Compile Include="Framework\Converts\FormatCamelCaseConverter.cs" />
+    <Compile Include="Framework\Converts\IntToInverseBoolConverter.cs" />
+    <Compile Include="Framework\Event\EventName.cs" />
+    <Compile Include="Framework\Event\EventUtil.cs" />
     <Compile Include="Framework\MVVM\Command.cs" />
     <Compile Include="Framework\MVVM\Commands\RelayCommand.cs" />
     <Compile Include="Framework\MVVM\ViewModelBase.cs" />
@@ -142,9 +149,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Func\" />
+    <Folder Include="Framework\UI\UserControls\" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="Framework\UI\Styles\DataGridStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Framework\UI\Templates\LoadingCircleTemplate.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Functions\EPITools\EPIToolWindowView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
