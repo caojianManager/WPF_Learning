@@ -121,3 +121,4 @@ C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\User
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.baml
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PageDataGridDemo\PageDataGridDemoView.g.cs
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PageDataGridDemo\PageDataGridDemoView.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\PagedDataGrid\Styles\PagedDataGridStyles.baml

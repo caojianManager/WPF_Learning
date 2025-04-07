@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPFDemo;
 
 namespace Framework.UI.UserControls
 {
@@ -24,7 +25,7 @@ namespace Framework.UI.UserControls
         public PagedDataGridView()
         {
             InitializeComponent();
-            GenerateColums();
+            //GenerateColums();
         }
 
         private void GenerateColums()
@@ -38,6 +39,21 @@ namespace Framework.UI.UserControls
                 //new PagedDataGridHeader("性别",new Binding("Sex")),
                 //new PagedDataGridHeader("总数",new Binding("Count")),
             };
+            var mergedDictionaries = this.Resources.MergedDictionaries;
+            //foreach (var dict in mergedDictionaries)
+            //{
+            //    if (dict.Contains("PageDataGridTextColumnCellStyle"))
+            //    {
+
+            //        var style0 = (Style)this.Resources["PageDataGridTextColumnStyle"];
+            //        var style1 = (Style)this.Resources["PageDataGridTextColumnCellStyle"];
+            //        // 使用 style
+            //    }
+            //}
+            //var style0 = (Style)this.Resources["PageDataGridTextColumnStyle"];
+            var style1 = (Style)this.Resources["PageDataGridTextColumnCellStyle"];
+            // 查找资源
+
             pageDataGrid.Columns.Clear();
             foreach (var item in headers)
             {
@@ -45,7 +61,10 @@ namespace Framework.UI.UserControls
                 {
                     Header = item.Header,
                     Binding = item.Binding,
+                    //ElementStyle = style0,
+                    CellStyle = style1,
                 };
+              
                 pageDataGrid.Columns.Add(column);
             }
         }
