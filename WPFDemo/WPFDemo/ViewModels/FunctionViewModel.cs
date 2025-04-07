@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using WPFDemo.Functions.EPITools;
+using WPFDemo.Functions.PageDataGridDemo;
 using WPFDemo.ViewModels;
 
 namespace WPFDemo.ViewModels
@@ -26,6 +27,7 @@ namespace WPFDemo.ViewModels
         }
 
         public ICommand OpenEPIToolCommand { get; set; }
+        public ICommand OpenDataGridDemoCommand { get; set; }
 
         public void Init()
         {
@@ -35,12 +37,19 @@ namespace WPFDemo.ViewModels
         private void ConfigCommands()
         {
             OpenEPIToolCommand = new RelayCommand((o) =>{OpenEPIToolWindow();}, (o) => { return true; });
+            OpenDataGridDemoCommand = new RelayCommand((o) => OpenDataGridDemoWindow(), (o) => { return true; });
         }
         
         private void OpenEPIToolWindow()
         {
             IWindowManager windowManager = AppBootstrapper.GetInstance().SimpleIoC.Resolve<IWindowManager>();
             windowManager.ShowWindowAsync(new EPIToolWindowViewModel());
+        }
+
+        private void OpenDataGridDemoWindow()
+        {
+            IWindowManager windowManager = AppBootstrapper.GetInstance().SimpleIoC.Resolve<IWindowManager>();
+            windowManager.ShowWindowAsync(new PageDataGridDemoViewModel());
         }
     }
 }

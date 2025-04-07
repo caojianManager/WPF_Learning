@@ -117,3 +117,7 @@ C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Propertie
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.Up2Date
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.g.cs
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PageDataGridDemo\PageDataGridDemoView.g.cs
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PageDataGridDemo\PageDataGridDemoView.baml

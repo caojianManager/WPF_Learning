@@ -95,6 +95,11 @@
     <Compile Include="Framework\MVVM\Commands\RelayCommand.cs" />
     <Compile Include="Framework\MVVM\ViewModelBase.cs" />
     <Compile Include="Framework\MVVM\ViewModelCommand.cs" />
+    <Compile Include="Framework\UI\UserControls\PagedDataGrid\PagedDataGridModel.cs" />
+    <Compile Include="Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.xaml.cs">
+      <DependentUpon>PagedDataGridView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Framework\UI\UserControls\PagedDataGrid\PagedDataGridViewModel.cs" />
     <Compile Include="Framework\WindowManager\IWindowManager.cs" />
     <Compile Include="Framework\WindowManager\ViewLocator.cs" />
     <Compile Include="Framework\WindowManager\WindowManager.cs" />
@@ -102,6 +107,10 @@
       <DependentUpon>EPIToolWindowView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Functions\EPITools\EPIToolWindowViewModel.cs" />
+    <Compile Include="Functions\PageDataGridDemo\PageDataGridDemoView.xaml.cs">
+      <DependentUpon>PageDataGridDemoView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Functions\PageDataGridDemo\PageDataGridDemoViewModel.cs" />
     <Compile Include="ViewModels\OverviewSampleViewModel.cs" />
     <Compile Include="ViewModels\Scripts\enum\ApplicationNavigationGroup.cs" />
     <Compile Include="ViewModels\Scripts\Interfaces\IApplicationContentView.cs" />
@@ -148,9 +157,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Framework\UI\UserControls\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Page Include="Framework\UI\Styles\DataGridStyles.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -160,7 +167,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Functions\EPITools\EPIToolWindowView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Functions\PageDataGridDemo\PageDataGridDemoView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

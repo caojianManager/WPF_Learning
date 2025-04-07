@@ -12,7 +12,7 @@
     <releaseNotes>See release notes at https://github.com/benruehl/adonis-ui/releases</releaseNotes>
     <copyright>Copyright ©  2020 Benjamin Rühl</copyright>
     <tags>UI Styles Themes Templates Controls WPF XAML</tags>
-    <repository type="git" url="https://github.com/benruehl/adonis-ui.git" commit="3eb530af1f5a861bb6485c36f0f0915fbbfe900c" />
+    <repository type="git" url="https://github.com/benruehl/adonis-ui.git" commit="41ce356be02ddc46030a5be5998ed66412f3dae0" />
     <dependencies>
       <group targetFramework=".NETFramework4.5">
         <dependency id="AdonisUI" version="1.17.1" exclude="Build,Analyzers" />

@@ -7,7 +7,7 @@ using System.Runtime.CompilerServices;
 
 namespace Framework
 {
-    class ViewModelBase
+    public class ViewModelBase
         : INotifyPropertyChanged
         , INotifyDataErrorInfo
         , IDataErrorInfo
