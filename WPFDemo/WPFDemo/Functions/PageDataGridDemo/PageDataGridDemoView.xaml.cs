@@ -23,23 +23,22 @@ namespace WPFDemo.Functions.PageDataGridDemo
         public PageDataGridDemoView()
         {
             InitializeComponent();
-            InitPageDataGrid();
+            LoadData();
         }
-
-        void InitPageDataGrid()
+        
+        private void LoadData()
         {
-           List<DataView> datas = new List<DataView>();
-           DataTable dt = new DataTable();
-            dt.Columns.Add("Id", typeof(int));
+            DataTable dt = new DataTable();
+            dt.Columns.Add("Id",typeof(int));
             dt.Columns.Add("Name",typeof(string));
-           dt.Columns.Add("Age", typeof(int));
-            for(int i = 0; i < 100;i++)
+            dt.Columns.Add("Age",typeof(int));
+
+            for(int i = 0; i< 100; i++)
             {
-                dt.Rows.Add(i, $"Name{i}", 20 + i % 10);
+                dt.Rows.Add(i,$"Name{i}",i);
             }
-         
-           var pageDataGridVM = pageDataGrid.InitPageDataGrid<DataRowView>(dt?.DefaultView.Cast<DataRowView>().ToList(),10);
-           pageDataGridVM.UpdatePagedItems();
+            var pageDataGridVM =  pageDataGridView.InitPageDataGrid<DataRowView>(dt?.DefaultView.Cast<DataRowView>().ToList(), 10);
+            pageDataGridVM.UpdatePagedItems();
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,52 +22,25 @@ namespace Framework.UI.UserControls
     /// </summary>
     public partial class PagedDataGridView : UserControl
     {
-      
+
+        public static readonly DependencyProperty DataGridStyleProperty = DependencyProperty.Register(nameof(DataGridStyle),typeof(Style),typeof(PagedDataGridView), new PropertyMetadata(null));
+        public Style DataGridStyle
+        {
+            get => (Style)GetValue(DataGridStyleProperty);
+            set => SetValue(DataGridStyleProperty, value);
+        }
+
+        public static readonly DependencyProperty ColumnsProperty = DependencyProperty.Register(nameof(Columns),typeof(ObservableCollection<DataGridColumn>),typeof(PagedDataGridView),new PropertyMetadata(new ObservableCollection<DataGridColumn>()));
+        public ObservableCollection<DataGridColumn> Columns
+        {
+            get => (ObservableCollection<DataGridColumn>)GetValue(ColumnsProperty);
+            set => SetValue(ColumnsProperty, value);
+        }
+
         public PagedDataGridView()
         {
             InitializeComponent();
-            //GenerateColums();
-        }
-
-        private void GenerateColums()
-        {
-            var headers = new List<PagedDataGridHeader>()
-            {
-                new PagedDataGridHeader("ID",new Binding("Id")),
-                new PagedDataGridHeader("姓名",new Binding("Name")),
-                new PagedDataGridHeader("年龄",new Binding("Age")),
-                //new PagedDataGridHeader("城市",new Binding("City")),
-                //new PagedDataGridHeader("性别",new Binding("Sex")),
-                //new PagedDataGridHeader("总数",new Binding("Count")),
-            };
-            var mergedDictionaries = this.Resources.MergedDictionaries;
-            //foreach (var dict in mergedDictionaries)
-            //{
-            //    if (dict.Contains("PageDataGridTextColumnCellStyle"))
-            //    {
-
-            //        var style0 = (Style)this.Resources["PageDataGridTextColumnStyle"];
-            //        var style1 = (Style)this.Resources["PageDataGridTextColumnCellStyle"];
-            //        // 使用 style
-            //    }
-            //}
-            //var style0 = (Style)this.Resources["PageDataGridTextColumnStyle"];
-            var style1 = (Style)this.Resources["PageDataGridTextColumnCellStyle"];
-            // 查找资源
-
-            pageDataGrid.Columns.Clear();
-            foreach (var item in headers)
-            {
-                var column = new DataGridTextColumn
-                {
-                    Header = item.Header,
-                    Binding = item.Binding,
-                    //ElementStyle = style0,
-                    CellStyle = style1,
-                };
-              
-                pageDataGrid.Columns.Add(column);
-            }
+            this.Loaded += OnLoaded;
         }
 
         public PagedDataGridViewModel<T> InitPageDataGrid<T>(List<T> datas,int pageSize = 0)
@@ -74,6 +48,17 @@ namespace Framework.UI.UserControls
             var viewModel = new PagedDataGridViewModel<T>(datas, pageSize);
             this.DataContext = viewModel;
             return viewModel;
+        }
+
+        private void OnLoaded(object sender, RoutedEventArgs e) {
+            if (Columns != null)
+            {
+                pageDataGrid.Columns.Clear();
+                foreach (var col in Columns)
+                {
+                    pageDataGrid.Columns.Add(col);
+                }
+            }
         }
     }
 }

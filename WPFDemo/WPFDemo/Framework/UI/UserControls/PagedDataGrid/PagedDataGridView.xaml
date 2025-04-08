@@ -6,14 +6,6 @@
              xmlns:local="clr-namespace:Framework.UI.UserControls"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <UserControl.Resources>
-        <ResourceDictionary>
-            <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="pack://application:,,,/Framework/UI/UserControls/PagedDataGrid/Styles/PagedDataGridStyles.xaml"/>
-            </ResourceDictionary.MergedDictionaries>
-        </ResourceDictionary>
-    </UserControl.Resources>
-
     <DockPanel>
         <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
             <Button Content="上一页" Command="{Binding PreviousPageCommand}" />
@@ -25,21 +17,8 @@
 
         <!-- 数据表格 -->
         <DataGrid x:Name="pageDataGrid" AutoGenerateColumns="False"
-                  ItemsSource="{Binding PagedItems}">
-            <DataGrid.Columns>
-                <DataGridTextColumn Header="ID" Foreground="#021D46" FontSize="23" Binding="{Binding Id}" ElementStyle="{StaticResource PageDataGridTextColumnStyle}" CellStyle="{StaticResource PageDataGridTextColumnCellStyle}">
-
-                </DataGridTextColumn>
-
-                <DataGridTextColumn Header="Name" Binding="{Binding Name}"  ElementStyle="{StaticResource PageDataGridTextColumnStyle}" CellStyle="{StaticResource PageDataGridTextColumnCellStyle}">
-
-                </DataGridTextColumn>
-
-                <DataGridTextColumn Header="Age" Binding="{Binding Age}"  ElementStyle="{StaticResource PageDataGridTextColumnStyle}" CellStyle="{StaticResource PageDataGridTextColumnCellStyle}">
-
-                </DataGridTextColumn>
-            </DataGrid.Columns>
-            
+                  ItemsSource="{Binding PagedItems}"
+                  Style="{Binding DataGridStyle,RelativeSource={RelativeSource AncestorType=UserControl}}">
         </DataGrid>
     </DockPanel>
 

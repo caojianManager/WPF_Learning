@@ -26,7 +26,6 @@ namespace Framework.UI.UserControls
             set => SetProperty(ref _currentPage, value);
         }
         //总页数
-      
         public int TotalPages
         {
             get => (_datas.Count + _pageSize - 1) / _pageSize;
@@ -37,7 +36,6 @@ namespace Framework.UI.UserControls
         }
         //页面大小
         private int _pageSize = 0;
-
         //Comands
         public ICommand NextPageCommand { get; set; }
         public ICommand PreviousPageCommand { get; set; }

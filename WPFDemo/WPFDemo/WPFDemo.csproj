@@ -95,7 +95,6 @@
     <Compile Include="Framework\MVVM\Commands\RelayCommand.cs" />
     <Compile Include="Framework\MVVM\ViewModelBase.cs" />
     <Compile Include="Framework\MVVM\ViewModelCommand.cs" />
-    <Compile Include="Framework\UI\UserControls\PagedDataGrid\PagedDataGridModel.cs" />
     <Compile Include="Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.xaml.cs">
       <DependentUpon>PagedDataGridView.xaml</DependentUpon>
     </Compile>

@@ -7,8 +7,21 @@
         xmlns:pdg="clr-namespace:Framework.UI.UserControls"
         mc:Ignorable="d"
         Title="PageDataGridDemoView" Height="450" Width="800">
-    <Grid>
-        <pdg:PagedDataGridView x:Name="pageDataGrid"/>
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Framework/UI/UserControls/PagedDataGrid/Styles/PagedDataGridStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+        <Grid>
+        <pdg:PagedDataGridView x:Name="pageDataGridView">
+            <pdg:PagedDataGridView.Columns>
+                <DataGridTextColumn Header="编号" Binding="{Binding Id}" />
+                <DataGridTextColumn Header="名称" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="年龄" Binding="{Binding Age}" />
+            </pdg:PagedDataGridView.Columns>
+        </pdg:PagedDataGridView>
 
     </Grid>
 </Window>
