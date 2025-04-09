@@ -3,7 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\lenovo\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\functions\\pagedatagriddemo\\pagedatagriddemoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\appbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\appbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\lenovo\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\timermanager\\uniquetimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\timermanager\\uniquetimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\lenovo\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\timermanager\\itimermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\timermanager\\itimermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\lenovo\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\timermanager\\timermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\timermanager\\timermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\lenovo\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\views\\overviewsampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\overviewsampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\functionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\functionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\mainwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\mainwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\framework\\ui\\usercontrols\\pageddatagrid\\pageddatagridview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\ui\\usercontrols\\pageddatagrid\\pageddatagridview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\functions\\pagedatagriddemo\\pagedatagriddemoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\functions\\pagedatagriddemo\\pagedatagriddemoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -13,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\functions\\pagedatagriddemo\\pagedatagriddemoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\functions\\pagedatagriddemo\\pagedatagriddemoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\framework\\ui\\usercontrols\\pageddatagrid\\pageddatagridview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\ui\\usercontrols\\pageddatagrid\\pageddatagridview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\framework\\ui\\usercontrols\\pageddatagrid\\pageddatagridview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -33,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\mainwindowview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\mainwindowview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\mainwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\mainwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\functionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\functionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\viewmodels\\scripts\\interfaces\\iapplicationcontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\viewmodels\\scripts\\interfaces\\iapplicationcontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\framework\\converts\\colortohexstringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\converts\\colortohexstringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\appbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\appbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\framework\\common\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -165,10 +181,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\views\\overviewsampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\views\\overviewsampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\wpfdemo\\framework\\mvvm\\viewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\mvvm\\viewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -191,7 +203,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 329,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -204,65 +216,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PageDataGridDemoView.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml",
-              "RelativeToolTip": "WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-07T07:03:47.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PageDataGridDemoView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml.cs",
-              "RelativeToolTip": "WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Title": "UniqueTimer.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\TimerManager\\UniqueTimer.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\TimerManager\\UniqueTimer.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\TimerManager\\UniqueTimer.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\TimerManager\\UniqueTimer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAewC8AAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T07:03:51.793Z",
+              "WhenOpened": "2025-04-09T05:22:07.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "ITimerManager.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\TimerManager\\ITimerManager.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\TimerManager\\ITimerManager.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\TimerManager\\ITimerManager.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\TimerManager\\ITimerManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwAoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:57:42.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PagedDataGridView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml.cs",
               "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA7wCEAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowDYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T02:55:04.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PagedDataGridStyles.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\Styles\\PagedDataGridStyles.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\Styles\\PagedDataGridStyles.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\Styles\\PagedDataGridStyles.xaml",
-              "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\Styles\\PagedDataGridStyles.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-07T07:21:02.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PagedDataGridViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridViewModel.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridViewModel.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridViewModel.cs",
-              "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T03:02:10.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "PageDataGridDemoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoViewModel.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoViewModel.cs",
@@ -274,30 +265,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PagedDataGridView.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml",
-              "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-07T02:54:52.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindowView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\MainWindowView.xaml.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Views\\MainWindowView.xaml.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\MainWindowView.xaml.cs",
-              "RelativeToolTip": "WPFDemo\\Views\\MainWindowView.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwBsAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppBootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\AppBootstrapper.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\AppBootstrapper.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\AppBootstrapper.cs",
+              "RelativeToolTip": "WPFDemo\\AppBootstrapper.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA+wCkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:20:22.272Z"
+              "WhenOpened": "2025-03-27T06:49:31.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "TimerManager.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\TimerManager\\TimerManager.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\TimerManager\\TimerManager.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\TimerManager\\TimerManager.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\TimerManager\\TimerManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwAwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:37:42.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainWindowView.xaml",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\MainWindowView.xaml",
               "RelativeDocumentMoniker": "WPFDemo\\Views\\MainWindowView.xaml",
@@ -308,76 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeToolTip": "WPFDemo\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T05:54:54.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WindowManager.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
-              "RelativeToolTip": "WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAIA7wEEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T08:42:25.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DataGridStyles.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\Styles\\DataGridStyles.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\Styles\\DataGridStyles.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\Styles\\DataGridStyles.xaml",
-              "RelativeToolTip": "WPFDemo\\Framework\\UI\\Styles\\DataGridStyles.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-07T07:21:25.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EPIToolWindowView.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\EPITools\\EPIToolWindowView.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Functions\\EPITools\\EPIToolWindowView.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\EPITools\\EPIToolWindowView.xaml",
-              "RelativeToolTip": "WPFDemo\\Functions\\EPITools\\EPIToolWindowView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-07T07:10:35.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Views.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Views.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Views\\Views.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Views.xaml",
-              "RelativeToolTip": "WPFDemo\\Views\\Views.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-07T03:03:21.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IApplicationContentView.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\Scripts\\Interfaces\\IApplicationContentView.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\Scripts\\Interfaces\\IApplicationContentView.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\Scripts\\Interfaces\\IApplicationContentView.cs",
-              "RelativeToolTip": "WPFDemo\\ViewModels\\Scripts\\Interfaces\\IApplicationContentView.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T02:58:52.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "FunctionView.xaml",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\FunctionView.xaml",
               "RelativeDocumentMoniker": "WPFDemo\\Views\\FunctionView.xaml",
@@ -388,261 +313,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
-              "RelativeToolTip": "WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T02:39:36.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Common\\Config.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\Common\\Config.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Common\\Config.cs",
-              "RelativeToolTip": "WPFDemo\\Framework\\Common\\Config.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T02:41:44.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EventName.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Event\\EventName.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\Event\\EventName.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Event\\EventName.cs",
-              "RelativeToolTip": "WPFDemo\\Framework\\Event\\EventName.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T02:42:45.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ToolBar.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ToolBar.xaml",
-              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\ToolBar.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ToolBar.xaml",
-              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\ToolBar.xaml",
+              "DocumentIndex": 4,
+              "Title": "OverviewSampleView.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\OverviewSampleView.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Views\\OverviewSampleView.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\OverviewSampleView.xaml",
+              "RelativeToolTip": "WPFDemo\\Views\\OverviewSampleView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T09:22:27.954Z"
+              "WhenOpened": "2025-03-09T05:47:20.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TabControl.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\TabControl.xaml",
-              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\TabControl.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\TabControl.xaml",
-              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\TabControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T09:22:22.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "EventUtil.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Event\\EventUtil.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\Event\\EventUtil.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Event\\EventUtil.cs",
-              "RelativeToolTip": "WPFDemo\\Framework\\Event\\EventUtil.cs",
-              "ViewState": "AgIAACYBAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "PagedDataGridViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridViewModel.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridViewModel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridViewModel.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T02:42:46.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ColorToHexStringConverter.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Converts\\ColorToHexStringConverter.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\Converts\\ColorToHexStringConverter.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Converts\\ColorToHexStringConverter.cs",
-              "RelativeToolTip": "WPFDemo\\Framework\\Converts\\ColorToHexStringConverter.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T02:44:41.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BoolToInverseBoolConverter.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Converts\\BoolToInverseBoolConverter.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\Converts\\BoolToInverseBoolConverter.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Converts\\BoolToInverseBoolConverter.cs",
-              "RelativeToolTip": "WPFDemo\\Framework\\Converts\\BoolToInverseBoolConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T02:50:23.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ProgressBar.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ProgressBar.xaml",
-              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\ProgressBar.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ProgressBar.xaml",
-              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\ProgressBar.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T09:22:23.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "StatusBar.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\StatusBar.xaml",
-              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\StatusBar.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\StatusBar.xaml",
-              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\StatusBar.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T09:22:26.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml.cs",
-              "RelativeToolTip": "WPFDemo\\App.xaml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:19:22.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "FunctionViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\FunctionViewModel.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\FunctionViewModel.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\FunctionViewModel.cs",
-              "RelativeToolTip": "WPFDemo\\ViewModels\\FunctionViewModel.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA0wBcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T01:08:23.864Z"
+              "WhenOpened": "2025-04-07T03:02:10.754Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "WPFDemo",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\WPFDemo.csproj",
-              "RelativeDocumentMoniker": "WPFDemo\\WPFDemo.csproj",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\WPFDemo.csproj",
-              "RelativeToolTip": "WPFDemo\\WPFDemo.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-27T11:51:46.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Singleton.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\Singleton.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Common\\Singleton.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\Singleton.cs",
-              "RelativeToolTip": "WPFDemo\\Common\\Singleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T03:52:30.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\Commands\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\Framework\\MVVM\\Commands\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\Commands\\RelayCommand.cs",
-              "RelativeToolTip": "WPFDemo\\Framework\\MVVM\\Commands\\RelayCommand.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T03:52:25.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AppBootstrapper.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\AppBootstrapper.cs",
-              "RelativeDocumentMoniker": "WPFDemo\\AppBootstrapper.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\AppBootstrapper.cs",
-              "RelativeToolTip": "WPFDemo\\AppBootstrapper.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T06:49:31.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "TextBox.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\TextBox.xaml",
-              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\TextBox.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\TextBox.xaml",
-              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\TextBox.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T09:22:29.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ScrollBar.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ScrollBar.xaml",
-              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\ScrollBar.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ScrollBar.xaml",
-              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\ScrollBar.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T09:22:21.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ScrollViewer.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ScrollViewer.xaml",
-              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\ScrollViewer.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ScrollViewer.xaml",
-              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\ScrollViewer.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T09:22:20.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CheckBox.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\CheckBox.xaml",
-              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\CheckBox.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\CheckBox.xaml",
-              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\CheckBox.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T09:22:15.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Themes.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\Themes\\Themes.cs",
-              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\Themes\\Themes.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\Themes\\Themes.cs",
-              "RelativeToolTip": "AdonisUI.ClassicTheme\\Themes\\Themes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:22:07.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ItemGroupLabelStyle.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
-              "RelativeToolTip": "WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T09:19:56.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
               "Title": "ControlReferenceSectionStyle.xaml",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Styles\\ControlReferenceSectionStyle.xaml",
               "RelativeDocumentMoniker": "WPFDemo\\Views\\Styles\\ControlReferenceSectionStyle.xaml",
@@ -653,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "SimpleIOC.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\SimpleIOC.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Common\\SimpleIOC.cs",
@@ -665,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "ViewModelCommand.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\ViewModelCommand.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Framework\\MVVM\\ViewModelCommand.cs",
@@ -677,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "Command.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\Command.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Framework\\MVVM\\Command.cs",
@@ -689,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "OverviewSampleViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\OverviewSampleViewModel.cs",
               "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\OverviewSampleViewModel.cs",
@@ -701,18 +396,375 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "OverviewSampleView.xaml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\OverviewSampleView.xaml",
-              "RelativeDocumentMoniker": "WPFDemo\\Views\\OverviewSampleView.xaml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\OverviewSampleView.xaml",
-              "RelativeToolTip": "WPFDemo\\Views\\OverviewSampleView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-09T05:47:20.673Z"
+              "DocumentIndex": 8,
+              "Title": "PageDataGridDemoView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml.cs",
+              "RelativeToolTip": "WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:03:51.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 16,
+              "Title": "WindowManager.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\WindowManager\\WindowManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAIA7wEEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:42:25.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataGridStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\Styles\\DataGridStyles.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\Styles\\DataGridStyles.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\Styles\\DataGridStyles.xaml",
+              "RelativeToolTip": "WPFDemo\\Framework\\UI\\Styles\\DataGridStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T07:21:25.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EPIToolWindowView.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\EPITools\\EPIToolWindowView.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Functions\\EPITools\\EPIToolWindowView.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\EPITools\\EPIToolWindowView.xaml",
+              "RelativeToolTip": "WPFDemo\\Functions\\EPITools\\EPIToolWindowView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T07:10:35.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Views.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Views.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Views\\Views.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Views.xaml",
+              "RelativeToolTip": "WPFDemo\\Views\\Views.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T03:03:21.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IApplicationContentView.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\Scripts\\Interfaces\\IApplicationContentView.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\Scripts\\Interfaces\\IApplicationContentView.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\Scripts\\Interfaces\\IApplicationContentView.cs",
+              "RelativeToolTip": "WPFDemo\\ViewModels\\Scripts\\Interfaces\\IApplicationContentView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:58:52.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagedDataGridStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\Styles\\PagedDataGridStyles.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\Styles\\PagedDataGridStyles.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\Styles\\PagedDataGridStyles.xaml",
+              "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\Styles\\PagedDataGridStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T07:21:02.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindowView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\MainWindowView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Views\\MainWindowView.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\MainWindowView.xaml.cs",
+              "RelativeToolTip": "WPFDemo\\Views\\MainWindowView.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:20:22.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageDataGridDemoView.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml",
+              "RelativeToolTip": "WPFDemo\\Functions\\PageDataGridDemo\\PageDataGridDemoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T07:03:47.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagedDataGridView.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml",
+              "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\PagedDataGrid\\PagedDataGridView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T02:54:52.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WPFDemo\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T05:54:54.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\MVVM\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:39:36.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Common\\Config.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\Common\\Config.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Common\\Config.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\Common\\Config.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:41:44.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EventName.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Event\\EventName.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\Event\\EventName.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Event\\EventName.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\Event\\EventName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:42:45.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ToolBar.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ToolBar.xaml",
+              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\ToolBar.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ToolBar.xaml",
+              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\ToolBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T09:22:27.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TabControl.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\TabControl.xaml",
+              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\TabControl.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\TabControl.xaml",
+              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\TabControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T09:22:22.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventUtil.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Event\\EventUtil.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\Event\\EventUtil.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Event\\EventUtil.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\Event\\EventUtil.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:42:46.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ColorToHexStringConverter.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Converts\\ColorToHexStringConverter.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\Converts\\ColorToHexStringConverter.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Converts\\ColorToHexStringConverter.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\Converts\\ColorToHexStringConverter.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:44:41.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BoolToInverseBoolConverter.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Converts\\BoolToInverseBoolConverter.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\Converts\\BoolToInverseBoolConverter.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\Converts\\BoolToInverseBoolConverter.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\Converts\\BoolToInverseBoolConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:50:23.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProgressBar.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ProgressBar.xaml",
+              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\ProgressBar.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ProgressBar.xaml",
+              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\ProgressBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T09:22:23.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StatusBar.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\StatusBar.xaml",
+              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\StatusBar.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\StatusBar.xaml",
+              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\StatusBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T09:22:26.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\App.xaml.cs",
+              "RelativeToolTip": "WPFDemo\\App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:19:22.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FunctionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\FunctionViewModel.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\ViewModels\\FunctionViewModel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\FunctionViewModel.cs",
+              "RelativeToolTip": "WPFDemo\\ViewModels\\FunctionViewModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA0wBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:08:23.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "WPFDemo",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\WPFDemo.csproj",
+              "RelativeDocumentMoniker": "WPFDemo\\WPFDemo.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\WPFDemo.csproj",
+              "RelativeToolTip": "WPFDemo\\WPFDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-27T11:51:46.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\Singleton.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Common\\Singleton.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Common\\Singleton.cs",
+              "RelativeToolTip": "WPFDemo\\Common\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:52:30.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Framework\\MVVM\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\MVVM\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\MVVM\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:52:25.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\TextBox.xaml",
+              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\TextBox.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\TextBox.xaml",
+              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\TextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T09:22:29.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ScrollBar.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ScrollBar.xaml",
+              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\ScrollBar.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ScrollBar.xaml",
+              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\ScrollBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T09:22:21.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ScrollViewer.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ScrollViewer.xaml",
+              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\ScrollViewer.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\ScrollViewer.xaml",
+              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\ScrollViewer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T09:22:20.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CheckBox.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\CheckBox.xaml",
+              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\DefaultStyles\\CheckBox.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\DefaultStyles\\CheckBox.xaml",
+              "RelativeToolTip": "AdonisUI.ClassicTheme\\DefaultStyles\\CheckBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T09:22:15.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Themes.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\Themes\\Themes.cs",
+              "RelativeDocumentMoniker": "AdonisUI.ClassicTheme\\Themes\\Themes.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\Themes\\Themes.cs",
+              "RelativeToolTip": "AdonisUI.ClassicTheme\\Themes\\Themes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:22:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ItemGroupLabelStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
+              "RelativeToolTip": "WPFDemo\\Views\\Styles\\ItemGroupLabelStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T09:19:56.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "IApplicationContentView.cs",
               "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\Interface\\IApplicationContentView.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\ViewModels\\Interface\\IApplicationContentView.cs",
@@ -724,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\MainWindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\MainWindow.xaml",

@@ -29,27 +29,23 @@ namespace Framework.UI.UserControls
             get => (Style)GetValue(DataGridStyleProperty);
             set => SetValue(DataGridStyleProperty, value);
         }
-
         public static readonly DependencyProperty ColumnsProperty = DependencyProperty.Register(nameof(Columns),typeof(ObservableCollection<DataGridColumn>),typeof(PagedDataGridView),new PropertyMetadata(new ObservableCollection<DataGridColumn>()));
         public ObservableCollection<DataGridColumn> Columns
         {
             get => (ObservableCollection<DataGridColumn>)GetValue(ColumnsProperty);
             set => SetValue(ColumnsProperty, value);
         }
-
         public PagedDataGridView()
         {
             InitializeComponent();
             this.Loaded += OnLoaded;
         }
-
         public PagedDataGridViewModel<T> InitPageDataGrid<T>(List<T> datas,int pageSize = 0)
         {
             var viewModel = new PagedDataGridViewModel<T>(datas, pageSize);
             this.DataContext = viewModel;
             return viewModel;
         }
-
         private void OnLoaded(object sender, RoutedEventArgs e) {
             if (Columns != null)
             {

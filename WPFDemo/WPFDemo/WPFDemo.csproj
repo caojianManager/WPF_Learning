@@ -95,6 +95,9 @@
     <Compile Include="Framework\MVVM\Commands\RelayCommand.cs" />
     <Compile Include="Framework\MVVM\ViewModelBase.cs" />
     <Compile Include="Framework\MVVM\ViewModelCommand.cs" />
+    <Compile Include="Framework\TimerManager\ITimerManager.cs" />
+    <Compile Include="Framework\TimerManager\TimerManager.cs" />
+    <Compile Include="Framework\TimerManager\UniqueTimer.cs" />
     <Compile Include="Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.xaml.cs">
       <DependentUpon>PagedDataGridView.xaml</DependentUpon>
     </Compile>
