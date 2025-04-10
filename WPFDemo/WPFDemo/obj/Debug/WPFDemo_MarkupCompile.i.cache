@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\
 WPFDemo
 none
 false
 DEBUG;TRACE
-C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\App.xaml
-121920565719
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\App.xaml
+13-969365086
 
-47-815960397
-241968009016
-Framework\UI\Styles\DataGridStyles.xaml;Framework\UI\Templates\LoadingCircleTemplate.xaml;Framework\UI\UserControls\PagedDataGrid\Styles\PagedDataGridStyles.xaml;Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.xaml;Functions\EPITools\EPIToolWindowView.xaml;Functions\PageDataGridDemo\PageDataGridDemoView.xaml;Views\FunctionView.xaml;Views\MainWindowView.xaml;Views\Styles\ControlReferenceSectionStyle.xaml;Views\Styles\ItemGroupLabelStyle.xaml;Views\OverviewSampleView.xaml;Views\Views.xaml;
+49-1252422283
+24697100734
+Framework\UI\Styles\DataGridStyles.xaml;Framework\UI\Templates\LoadingCircleTemplate.xaml;Framework\UI\UserControls\PagedDataGrid\Styles\PagedDataGridStyles.xaml;Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.xaml;Framework\UI\UserControls\RefreshButton\RefreshButton.xaml;Functions\EPITools\EPIToolWindowView.xaml;Functions\PageDataGridDemo\PageDataGridDemoView.xaml;Views\FunctionView.xaml;Views\MainWindowView.xaml;Views\Styles\ControlReferenceSectionStyle.xaml;Views\Styles\ItemGroupLabelStyle.xaml;Views\OverviewSampleView.xaml;Views\Views.xaml;
 
-False
+True
 

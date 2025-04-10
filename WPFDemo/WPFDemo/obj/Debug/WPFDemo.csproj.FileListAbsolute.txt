@@ -122,3 +122,12 @@ C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\User
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PageDataGridDemo\PageDataGridDemoView.g.cs
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PageDataGridDemo\PageDataGridDemoView.baml
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\PagedDataGrid\Styles\PagedDataGridStyles.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\Templates\LoadingCircleTemplate.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\PagedDataGrid\Styles\PagedDataGridStyles.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\RefreshButton\RefreshButton.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PageDataGridDemo\PageDataGridDemoView.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\Styles\DataGridStyles.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\RefreshButton\RefreshButton.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PageDataGridDemo\PageDataGridDemoView.baml

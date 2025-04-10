@@ -12,7 +12,7 @@
     <releaseNotes>See release notes at https://github.com/benruehl/adonis-ui/releases</releaseNotes>
     <copyright>Copyright ©  2020 Benjamin Rühl</copyright>
     <tags>UI Styles Themes Templates Controls WPF XAML</tags>
-    <repository type="git" url="https://github.com/benruehl/adonis-ui.git" commit="41ce356be02ddc46030a5be5998ed66412f3dae0" />
+    <repository type="git" url="https://github.com/benruehl/adonis-ui.git" commit="ed25c59ab1a2fbd35fc468dde0b9f76584d14734" />
     <dependencies>
       <group targetFramework=".NETFramework4.5">
         <dependency id="AdonisUI" version="1.17.1" exclude="Build,Analyzers" />
@@ -41,12 +41,12 @@
     </frameworkAssemblies>
   </metadata>
   <files>
-    <file src="C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\net45\AdonisUI.ClassicTheme.dll" target="lib\net45\AdonisUI.ClassicTheme.dll" />
-    <file src="C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\net45\AdonisUI.ClassicTheme.xml" target="lib\net45\AdonisUI.ClassicTheme.xml" />
-    <file src="C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\net5.0-windows\AdonisUI.ClassicTheme.dll" target="lib\net5.0-windows7.0\AdonisUI.ClassicTheme.dll" />
-    <file src="C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\net5.0-windows\AdonisUI.ClassicTheme.xml" target="lib\net5.0-windows7.0\AdonisUI.ClassicTheme.xml" />
-    <file src="C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\netcoreapp3.1\AdonisUI.ClassicTheme.dll" target="lib\netcoreapp3.1\AdonisUI.ClassicTheme.dll" />
-    <file src="C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\netcoreapp3.1\AdonisUI.ClassicTheme.xml" target="lib\netcoreapp3.1\AdonisUI.ClassicTheme.xml" />
-    <file src="C:\Users\lenovo\Desktop\WPF_Learning\resources\img\favicon-256x256.png" target="\favicon-256x256.png" />
+    <file src="C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\net45\AdonisUI.ClassicTheme.dll" target="lib\net45\AdonisUI.ClassicTheme.dll" />
+    <file src="C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\net45\AdonisUI.ClassicTheme.xml" target="lib\net45\AdonisUI.ClassicTheme.xml" />
+    <file src="C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\net5.0-windows\AdonisUI.ClassicTheme.dll" target="lib\net5.0-windows7.0\AdonisUI.ClassicTheme.dll" />
+    <file src="C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\net5.0-windows\AdonisUI.ClassicTheme.xml" target="lib\net5.0-windows7.0\AdonisUI.ClassicTheme.xml" />
+    <file src="C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\netcoreapp3.1\AdonisUI.ClassicTheme.dll" target="lib\netcoreapp3.1\AdonisUI.ClassicTheme.dll" />
+    <file src="C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\bin\Debug\netcoreapp3.1\AdonisUI.ClassicTheme.xml" target="lib\netcoreapp3.1\AdonisUI.ClassicTheme.xml" />
+    <file src="C:\Users\Cao Jian\Desktop\WPF_Learning\resources\img\favicon-256x256.png" target="\favicon-256x256.png" />
   </files>
 </package>

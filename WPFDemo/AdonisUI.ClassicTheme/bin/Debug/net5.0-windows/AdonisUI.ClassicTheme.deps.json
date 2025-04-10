@@ -27,10 +27,7 @@
           "System.Drawing.Common": "9.0.2"
         },
         "runtime": {
-          "AdonisUI.dll": {
-            "assemblyVersion": "1.17.1.0",
-            "fileVersion": "1.17.1.0"
-          }
+          "AdonisUI.dll": {}
         }
       }
     }

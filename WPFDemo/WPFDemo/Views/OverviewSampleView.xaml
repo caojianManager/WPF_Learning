@@ -2,7 +2,8 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:viewModels="clr-namespace:WPFDemo.ViewModels"
                     xmlns:adonisUi="clr-namespace:AdonisUI;assembly=AdonisUI"
-                    xmlns:adonisExtensions="clr-namespace:AdonisUI.Extensions;assembly=AdonisUI">
+                    xmlns:adonisExtensions="clr-namespace:AdonisUI.Extensions;assembly=AdonisUI"
+                    xmlns:buttons="clr-namespace:FrameWork.UI.UserControls.Buttons">
 
     <ResourceDictionary.MergedDictionaries>
         <ResourceDictionary Source="../Views/Styles/ItemGroupLabelStyle.xaml"/>
@@ -14,6 +15,8 @@
                 <Grid.RowDefinitions>
                     <RowDefinition Height="Auto"/>
                     <RowDefinition Height="{adonisUi:Space 2}"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="{adonisUi:Space 1}"/>
                     <RowDefinition Height="Auto"/>
                     <RowDefinition Height="{adonisUi:Space 1}"/>
                     <RowDefinition Height="Auto"/>
@@ -262,6 +265,22 @@
                     </UniformGrid>
                 </Grid>
 
+                <Grid Grid.Row="14">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="{adonisUi:Space 1}"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="Refresh Btn" Style="{StaticResource ItemGroupLabelStyle}"/>
+                    <Grid Grid.Row="2">
+                            <buttons:RefreshButton 
+                               HorizontalAlignment="Left"
+                               VerticalAlignment="Center"
+                               ButtonText="Refresh Button"
+                               Background="LightPink"
+                               TextBrush="Black"/>
+                    </Grid>
+                </Grid>
             </Grid>
         </ScrollViewer>
     </DataTemplate>

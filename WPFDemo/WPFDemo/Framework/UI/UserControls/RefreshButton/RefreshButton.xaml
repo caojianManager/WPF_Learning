@@ -1,0 +1,81 @@
+﻿<UserControl x:Class="FrameWork.UI.UserControls.Buttons.RefreshButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FrameWork.UI.UserControls.Buttons"
+             MinWidth="0" MinHeight="0"
+             Width="Auto" Height="Auto"
+             x:Name="root"
+             >
+    <Button x:Name="refreshButton"
+            Click="RefreshButtonClick"
+            Padding="10"
+            Background="{Binding Background, ElementName=root}">
+        <Button.Template>
+            <ControlTemplate TargetType="Button">
+                <Border x:Name="border"
+                    Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="{TemplateBinding BorderThickness}"
+                    CornerRadius="14"  
+                    SnapsToDevicePixels="True"
+                    ClipToBounds="True">
+                    <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                </Border>
+
+                <ControlTemplate.Triggers>
+                    <Trigger Property="IsPressed" Value="True">
+                        <Setter Property="RenderTransform">
+                            <Setter.Value>
+                                <ScaleTransform ScaleX="0.99" ScaleY="0.99"/>
+                            </Setter.Value>
+                        </Setter>
+                        <Setter TargetName="border" Property="Background" Value="LightBlue"/>
+                    </Trigger>
+                </ControlTemplate.Triggers>
+            </ControlTemplate>
+        </Button.Template>
+
+        <Button.Resources>
+            <Style TargetType="Button">
+                <Setter Property="RenderTransformOrigin" Value="0.5,0.5"/>
+                <Setter Property="RenderTransform">
+                    <Setter.Value>
+                        <ScaleTransform ScaleX="1" ScaleY="1"/>
+                    </Setter.Value>
+                </Setter>
+                <Style.Triggers>
+                    <Trigger Property="IsPressed" Value="True">
+                        <Setter Property="RenderTransform">
+                            <Setter.Value>
+                                <ScaleTransform ScaleX="0.99" ScaleY="0.99"/>
+                            </Setter.Value>
+                        </Setter>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+        </Button.Resources>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <!-- 文字 -->
+            <TextBlock Text="{Binding ButtonText, ElementName=root}"
+                 Foreground="{Binding TextBrush, ElementName=root}"
+                 FontSize="18"
+                 VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15,10,10,10"/>
+            <!--Source="/WPFDemo;component/Re"-->
+            <!-- 图标 -->
+            <Image Source="/WPFDemo;component/Resources/Images/RefreshIcon.png"
+            Width="30" Height="30"
+            x:Name="IconImage"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Right"
+            Margin="0,3,10,3">
+                <Image.RenderTransform>
+                    <RotateTransform x:Name="ImageRotate" Angle="0" CenterX="15" CenterY="15"/>
+                </Image.RenderTransform>
+            </Image>
+        </StackPanel>
+    </Button>
+</UserControl>
