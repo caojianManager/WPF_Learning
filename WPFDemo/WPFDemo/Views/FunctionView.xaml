@@ -12,6 +12,8 @@
                     <RowDefinition Height="Auto"/>
                     <RowDefinition Height="{adonisUi:Space 2}"/>
                     <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="{adonisUi:Space 2}"/>
+                    <RowDefinition Height="Auto"/>
                 </Grid.RowDefinitions>
 
                 <TextBlock Text="功能属性面板"
@@ -25,6 +27,11 @@
                 <Grid Grid.Row="4">
                     <Label Content="DataGridDemo"/>
                     <Button Command="{Binding OpenDataGridDemoCommand}" Content="Open Data Grid Demo"/>
+                </Grid>
+
+                <Grid Grid.Row="6">
+                    <Label Content="Paged Collection Demo"/>
+                    <Button Command="{Binding OpenPagedCollectionViewDemoCommand}" Content="Open Paged CollectionView Demo"/>
                 </Grid>
 
             </Grid>

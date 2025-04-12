@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using WPFDemo.Functions.EPITools;
 using WPFDemo.Functions.PageDataGridDemo;
+using WPFDemo.Functions.PagedCollectionViewDemo;
 using WPFDemo.ViewModels;
 
 namespace WPFDemo.ViewModels
@@ -29,6 +30,7 @@ namespace WPFDemo.ViewModels
         public ICommand OpenEPIToolCommand { get; set; }
         public ICommand OpenDataGridDemoCommand { get; set; }
 
+        public ICommand OpenPagedCollectionViewDemoCommand { get; set; }
         public void Init()
         {
             ConfigCommands();
@@ -38,6 +40,7 @@ namespace WPFDemo.ViewModels
         {
             OpenEPIToolCommand = new RelayCommand((o) =>{OpenEPIToolWindow();}, (o) => { return true; });
             OpenDataGridDemoCommand = new RelayCommand((o) => OpenDataGridDemoWindow(), (o) => { return true; });
+            OpenPagedCollectionViewDemoCommand = new RelayCommand((o) => OpenPagedCollectionViewDemoWindow(), (o) => { return true; });
         }
         
         private void OpenEPIToolWindow()
@@ -50,6 +53,12 @@ namespace WPFDemo.ViewModels
         {
             IWindowManager windowManager = AppBootstrapper.GetInstance().SimpleIoC.Resolve<IWindowManager>();
             windowManager.ShowWindowAsync(new PageDataGridDemoViewModel());
+        }
+
+        private void OpenPagedCollectionViewDemoWindow()
+        {
+            IWindowManager windowManager = AppBootstrapper.GetInstance().SimpleIoC.Resolve<IWindowManager>();
+            windowManager.ShowWindowAsync(new PagedCollectionDemoViewModel());
         }
     }
 }

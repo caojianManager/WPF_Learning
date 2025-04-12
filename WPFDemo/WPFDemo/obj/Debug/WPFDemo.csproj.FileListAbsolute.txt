@@ -131,3 +131,7 @@ C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\St
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.baml
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\RefreshButton\RefreshButton.baml
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PageDataGridDemo\PageDataGridDemoView.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PagedCollectionViewDemo\PagedCollectionDemoView.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PagedCollectionViewDemo\PagedCollectionDemoView.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\SmartCollectionView\SmartCollectionView.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\SmartCollectionView\SmartCollectionView.g.cs

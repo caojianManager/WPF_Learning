@@ -99,6 +99,9 @@
     <Compile Include="Framework\TimerManager\ITimerManager.cs" />
     <Compile Include="Framework\TimerManager\TimerManager.cs" />
     <Compile Include="Framework\TimerManager\UniqueTimer.cs" />
+    <Compile Include="Framework\UI\UserControls\Enums\Enums.cs" />
+    <Compile Include="Framework\UI\UserControls\Selectors\TemplateMapping.cs" />
+    <Compile Include="Framework\UI\UserControls\Selectors\TypeTemplateSelector.cs" />
     <Compile Include="Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.xaml.cs">
       <DependentUpon>PagedDataGridView.xaml</DependentUpon>
     </Compile>
@@ -107,6 +110,9 @@
       <DependentUpon>RefreshButton.xaml</DependentUpon>
     </Compile>
     <Compile Include="Framework\UI\UserControls\RefreshButton\RefreshButtonViewModel.cs" />
+    <Compile Include="Framework\UI\UserControls\SmartCollectionView\SmartCollectionView.xaml.cs">
+      <DependentUpon>SmartCollectionView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Framework\WindowManager\IWindowManager.cs" />
     <Compile Include="Framework\WindowManager\ViewLocator.cs" />
     <Compile Include="Framework\WindowManager\WindowManager.cs" />
@@ -118,6 +124,11 @@
       <DependentUpon>PageDataGridDemoView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Functions\PageDataGridDemo\PageDataGridDemoViewModel.cs" />
+    <Compile Include="Functions\PagedCollectionViewDemo\ItemsModel.cs" />
+    <Compile Include="Functions\PagedCollectionViewDemo\PagedCollectionDemoView.xaml.cs">
+      <DependentUpon>PagedCollectionDemoView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Functions\PagedCollectionViewDemo\PagedCollectionDemoViewModel.cs" />
     <Compile Include="ViewModels\OverviewSampleViewModel.cs" />
     <Compile Include="ViewModels\Scripts\enum\ApplicationNavigationGroup.cs" />
     <Compile Include="ViewModels\Scripts\Interfaces\IApplicationContentView.cs" />
@@ -190,11 +201,19 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Framework\UI\UserControls\SmartCollectionView\SmartCollectionView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Functions\EPITools\EPIToolWindowView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Functions\PageDataGridDemo\PageDataGridDemoView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Functions\PagedCollectionViewDemo\PagedCollectionDemoView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -236,5 +255,6 @@
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

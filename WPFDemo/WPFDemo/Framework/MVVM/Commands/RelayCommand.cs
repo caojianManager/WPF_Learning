@@ -12,7 +12,7 @@ namespace Framework.MVVM.Commands
         private Action<object> _Excute {  get; set; }
         private Predicate<object> _CanExcute { get; set; }
 
-        public RelayCommand(Action<object> excute, Predicate<object> canExcute)
+        public RelayCommand(Action<object> excute, Predicate<object>? canExcute =null)
         {
             _Excute = excute;
             _CanExcute = canExcute;
@@ -20,6 +20,10 @@ namespace Framework.MVVM.Commands
 
         public override bool CanExecute(object parameter)
         {
+            if(_CanExcute == null)
+            {
+                return true;
+            }
             return _CanExcute(parameter);
         }
 
