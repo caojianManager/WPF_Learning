@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\cao jian\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\ui\\usercontrols\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\ui\\usercontrols\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\cao jian\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\functions\\pagedcollectionviewdemo\\pagedcollectiondemoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\functions\\pagedcollectionviewdemo\\pagedcollectiondemoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\cao jian\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\ui\\usercontrols\\smartcollectionview\\smartcollectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\ui\\usercontrols\\smartcollectionview\\smartcollectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\cao jian\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\ui\\usercontrols\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\framework\\ui\\usercontrols\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DABE0E9-5E2A-4C0B-8181-09E513DA2938}|WPFDemo\\WPFDemo.csproj|c:\\users\\cao jian\\desktop\\wpf_learning\\wpfdemo\\wpfdemo\\framework\\ui\\usercontrols\\smartcollectionview\\smartcollectionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OverviewSampleView.xaml",
               "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\OverviewSampleView.xaml",
               "RelativeDocumentMoniker": "WPFDemo\\Views\\OverviewSampleView.xaml",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindowView.xaml",
               "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Views\\MainWindowView.xaml",
               "RelativeDocumentMoniker": "WPFDemo\\Views\\MainWindowView.xaml",
@@ -102,12 +102,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\Enums\\Enums.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\UserControls\\Enums\\Enums.cs",
-              "ToolTip": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\Enums\\Enums.cs*",
-              "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\Enums\\Enums.cs*",
+              "ToolTip": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\Enums\\Enums.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\Enums\\Enums.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T09:30:58.392Z",
@@ -154,24 +154,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PagedCollectionDemoView.xaml",
               "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PagedCollectionViewDemo\\PagedCollectionDemoView.xaml",
               "RelativeDocumentMoniker": "WPFDemo\\Functions\\PagedCollectionViewDemo\\PagedCollectionDemoView.xaml",
-              "ToolTip": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PagedCollectionViewDemo\\PagedCollectionDemoView.xaml*",
-              "RelativeToolTip": "WPFDemo\\Functions\\PagedCollectionViewDemo\\PagedCollectionDemoView.xaml*",
+              "ToolTip": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Functions\\PagedCollectionViewDemo\\PagedCollectionDemoView.xaml",
+              "RelativeToolTip": "WPFDemo\\Functions\\PagedCollectionViewDemo\\PagedCollectionDemoView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-12T09:01:48.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SmartCollectionView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\SmartCollectionView\\SmartCollectionView.xaml.cs",
               "RelativeDocumentMoniker": "WPFDemo\\Framework\\UI\\UserControls\\SmartCollectionView\\SmartCollectionView.xaml.cs",
-              "ToolTip": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\SmartCollectionView\\SmartCollectionView.xaml.cs*",
-              "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\SmartCollectionView\\SmartCollectionView.xaml.cs*",
+              "ToolTip": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\WPFDemo\\Framework\\UI\\UserControls\\SmartCollectionView\\SmartCollectionView.xaml.cs",
+              "RelativeToolTip": "WPFDemo\\Framework\\UI\\UserControls\\SmartCollectionView\\SmartCollectionView.xaml.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAiwF0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T08:57:57.581Z",
