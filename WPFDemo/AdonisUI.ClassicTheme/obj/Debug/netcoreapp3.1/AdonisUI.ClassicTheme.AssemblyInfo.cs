@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Styles implementing AdonisUI\'s theme definitions to provide classic look and feel" +
     ".")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.17.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.17.1+3a169b0394b70032b519d08892f60f2298be990f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.17.1+b3e3121ca1b5596df9eecbd54a8f18f09a1a590a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdonisUI.ClassicTheme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdonisUI.ClassicTheme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.17.1.0")]
