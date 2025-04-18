@@ -92,6 +92,7 @@
     <Compile Include="Framework\Converts\IntToInverseBoolConverter.cs" />
     <Compile Include="Framework\Event\EventName.cs" />
     <Compile Include="Framework\Event\EventUtil.cs" />
+    <Compile Include="Framework\MediaPlayerManager\MediaPlayerManager.cs" />
     <Compile Include="Framework\MVVM\Command.cs" />
     <Compile Include="Framework\MVVM\Commands\RelayCommand.cs" />
     <Compile Include="Framework\MVVM\ViewModelBase.cs" />
@@ -255,6 +256,10 @@
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\audios\warning_tip.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

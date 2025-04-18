@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Windows.Interop;
 using Common;
 using Framework.Event;
+using Framework.MediaPlayerManager;
 using Framework.TimerManager;
 using Framework.WindowManager;
 using WPFDemo.ViewModels;
@@ -35,16 +36,7 @@ namespace WPFDemo
         {
             IWindowManager iWindowManager = _simpleIoC.Resolve<IWindowManager>();
             iWindowManager.ShowWindowAsync(new MainWindowViewModel());
-
-            ITimerManager timerManager = _simpleIoC.Resolve<ITimerManager>();
-            var timer = timerManager.CreateTimer(1, 10, (i) =>
-            {
-                Debug.WriteLine("A1" + i);
-            }, () =>
-            {
-                Debug.WriteLine("A-end");
-            });
-            timer.Start();
+            MediaPlayerManager.GetInstance().Play("warning_tip.mp3");
         }
 
         private void Config()
