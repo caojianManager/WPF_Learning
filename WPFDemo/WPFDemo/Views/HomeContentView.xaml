@@ -11,7 +11,7 @@
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto" />
-                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="800"/>
                 <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
             
@@ -25,50 +25,50 @@
 
             <Button Grid.Row="0" Grid.Column="0"
                     Style="{StaticResource HomeButtonStyle}"
-                    local:ImageHelper.BackgroundSource = "/WPFDemo;component/Resources/Images/search_0.png"
+                    local:ImageHelper.BackgroundSource ="/WPFDemo;component/Resources/Images/search_0.png"
                     local:ImageHelper.PressedBackgroundSource="/WPFDemo;component/Resources/Images/search_1.png"
-                    Content="B1"     
-                    local:TextHelper.Subtitle="A"
+                    Content="查询"     
+                    local:TextHelper.Subtitle="机柜 处方 操作 统计"
                     />
             
             <Button Grid.Row="0" Grid.Column="2"
                     Style="{StaticResource HomeButtonStyle}"
-                    local:ImageHelper.BackgroundSource = "/WPFDemo;component/Resources/Images/search_0.png"
-                    local:ImageHelper.PressedBackgroundSource="/WPFDemo;component/Resources/Images/search_1.png"
-                    Content="B1"     
-                    local:TextHelper.Subtitle="A"
+                    local:ImageHelper.BackgroundSource = "/WPFDemo;component/Resources/Images/recyle_0.png"
+                    local:ImageHelper.PressedBackgroundSource="/WPFDemo;component/Resources/Images/recyle_1.png"
+                    Content="回收"     
+                    local:TextHelper.Subtitle="回收清理"
                     />
             
             <Button Grid.Row="2" Grid.Column="0"
                     Style="{StaticResource HomeButtonStyle}"
-                    local:ImageHelper.BackgroundSource = "/WPFDemo;component/Resources/Images/recyle_0.png"
-                    local:ImageHelper.PressedBackgroundSource="/WPFDemo;component/Resources/Images/recyle_1.png"
-                    Content="B1"
-                    local:TextHelper.Subtitle="A"
+                    local:ImageHelper.BackgroundSource = "/WPFDemo;component/Resources/Images/outhousing_0.png"
+                    local:ImageHelper.PressedBackgroundSource="/WPFDemo;component/Resources/Images/outhousing_1.png"
+                    Content="出库"
+                    local:TextHelper.Subtitle="出库退还"
                     />
             
             <Button Grid.Row="2" Grid.Column="2"
                     Style="{StaticResource HomeButtonStyle}"
-                    local:ImageHelper.BackgroundSource = "/WPFDemo;component/Resources/Images/recyle_0.png"
-                    local:ImageHelper.PressedBackgroundSource="/WPFDemo;component/Resources/Images/recyle_1.png"
-                    Content="B1"     
-                    local:TextHelper.Subtitle="A"
+                    local:ImageHelper.BackgroundSource = "/WPFDemo;component/Resources/Images/checking_0.png"
+                    local:ImageHelper.PressedBackgroundSource="/WPFDemo;component/Resources/Images/checking_1.png"
+                    Content="盘点"     
+                    local:TextHelper.Subtitle="自动盘点"
                     />
             
             <Button Grid.Row="4" Grid.Column="0"
                     Style="{StaticResource HomeButtonStyle}"
                     local:ImageHelper.BackgroundSource = "/WPFDemo;component/Resources/Images/warehousing_0.png"
                     local:ImageHelper.PressedBackgroundSource= "/WPFDemo;component/Resources/Images/warehousing_1.png"
-                    Content="B1"
-                    local:TextHelper.Subtitle="A"
+                    Content="入库"
+                    local:TextHelper.Subtitle="存储新增"
                     />
             
             <Button Grid.Row="4" Grid.Column="2"
                     Style="{StaticResource HomeButtonStyle}"
-                    local:ImageHelper.BackgroundSource = "/WPFDemo;component/Resources/Images/warehousing_0.png"
-                    local:ImageHelper.PressedBackgroundSource= "/WPFDemo;component/Resources/Images/warehousing_1.png"
-                    Content="B1"
-                    local:TextHelper.Subtitle="ABX"
+                    local:ImageHelper.BackgroundSource = "/WPFDemo;component/Resources/Images/setting_0.png"
+                    local:ImageHelper.PressedBackgroundSource= "/WPFDemo;component/Resources/Images/setting_1.png"
+                    Content="配置"
+                    local:TextHelper.Subtitle="基础配置"
                     />
         </Grid>
     </DataTemplate>

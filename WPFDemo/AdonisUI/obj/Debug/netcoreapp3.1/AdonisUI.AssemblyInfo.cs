@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Core theme definitions for AdonisUI - a lightweight UI toolkit for WPF applicatio" +
     "ns offering classic but enhanced windows visuals")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.17.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.17.1+1ead860a02dcee1feff3ead95f88071515072be0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.17.1+316e35bdae8a3aadf36767b504cc5fcaedcabc40")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdonisUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdonisUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.17.1.0")]
