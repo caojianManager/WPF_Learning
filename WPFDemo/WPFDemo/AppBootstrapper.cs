@@ -36,7 +36,6 @@ namespace WPFDemo
         {
             IWindowManager iWindowManager = _simpleIoC.Resolve<IWindowManager>();
             iWindowManager.ShowWindowAsync(new MainWindowViewModel());
-            MediaPlayerManager.GetInstance().Play("warning_tip.mp3");
         }
 
         private void Config()

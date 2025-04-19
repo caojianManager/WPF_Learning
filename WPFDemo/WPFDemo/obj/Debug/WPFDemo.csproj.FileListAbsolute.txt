@@ -137,3 +137,6 @@ C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\Us
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\SmartCollectionView\SmartCollectionView.g.cs
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Resources\audios\warning_tip.mp3
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo_Content.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\TestDemo\TestView.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\TestDemo\TestView.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\HomeContentView.baml

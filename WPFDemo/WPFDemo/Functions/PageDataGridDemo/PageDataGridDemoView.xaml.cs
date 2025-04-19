@@ -37,8 +37,8 @@ namespace WPFDemo.Functions.PageDataGridDemo
             {
                 dt.Rows.Add(i,$"Name{i}",i);
             }
-            var pageDataGridVM =  pageDataGridView.InitPageDataGrid<DataRowView>(dt?.DefaultView.Cast<DataRowView>().ToList(), 10);
-            pageDataGridVM.UpdatePagedItems();
+            //var pageDataGridVM =  pageDataGridView.InitPageDataGrid<DataRowView>(dt?.DefaultView.Cast<DataRowView>().ToList(), 10);
+            //pageDataGridVM.UpdatePagedItems();
         }
     }
 }

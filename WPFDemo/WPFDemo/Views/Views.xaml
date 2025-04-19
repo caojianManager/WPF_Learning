@@ -5,6 +5,7 @@
     <ResourceDictionary.MergedDictionaries>
         <ResourceDictionary Source="OverviewSampleView.xaml"/>
         <ResourceDictionary Source="FunctionView.xaml"/>
+        <ResourceDictionary Source="HomeContentView.xaml"/>
     </ResourceDictionary.MergedDictionaries>
     
 </ResourceDictionary>

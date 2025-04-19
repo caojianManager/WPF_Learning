@@ -1,0 +1,34 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:vm="clr-namespace:WPFDemo.ViewModels">
+
+    <DataTemplate x:Key="HomeContenView" DataType="{x:Type vm:HomeContentViewModel}">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Button Grid.Row="0" Grid.Column="0" Content="B1"/>
+            
+            <Button Grid.Row="0" Grid.Column="2" Content="B1"/>
+            
+            <Button Grid.Row="2" Grid.Column="0" Content="B1"/>
+            
+            <Button Grid.Row="2" Grid.Column="2" Content="B1"/>
+            
+            <Button Grid.Row="4" Grid.Column="0" Content="B1"/>
+            
+            <Button Grid.Row="4" Grid.Column="2" Content="B1"/>
+        </Grid>
+    </DataTemplate>
+</ResourceDictionary>

@@ -11,6 +11,7 @@ using System.Windows.Input;
 using WPFDemo.Functions.EPITools;
 using WPFDemo.Functions.PageDataGridDemo;
 using WPFDemo.Functions.PagedCollectionViewDemo;
+using WPFDemo.Functions.TestDemo;
 using WPFDemo.ViewModels;
 
 namespace WPFDemo.ViewModels
@@ -22,7 +23,8 @@ namespace WPFDemo.ViewModels
         public ApplicationNavigationGroup Group => ApplicationNavigationGroup.Function;
 
         private bool _isLoading = false;
-        public bool IsLoading {
+        public bool IsLoading
+        {
             get => _isLoading;
             set => SetProperty(ref _isLoading, value);
         }
@@ -31,6 +33,8 @@ namespace WPFDemo.ViewModels
         public ICommand OpenDataGridDemoCommand { get; set; }
 
         public ICommand OpenPagedCollectionViewDemoCommand { get; set; }
+
+        public ICommand TestPageViewDemoCommand { get; set; }
         public void Init()
         {
             ConfigCommands();
@@ -38,11 +42,12 @@ namespace WPFDemo.ViewModels
 
         private void ConfigCommands()
         {
-            OpenEPIToolCommand = new RelayCommand((o) =>{OpenEPIToolWindow();}, (o) => { return true; });
+            OpenEPIToolCommand = new RelayCommand((o) => { OpenEPIToolWindow(); }, (o) => { return true; });
             OpenDataGridDemoCommand = new RelayCommand((o) => OpenDataGridDemoWindow(), (o) => { return true; });
             OpenPagedCollectionViewDemoCommand = new RelayCommand((o) => OpenPagedCollectionViewDemoWindow(), (o) => { return true; });
+            TestPageViewDemoCommand = new RelayCommand((o) => TestPageViewOpen());
         }
-        
+
         private void OpenEPIToolWindow()
         {
             IWindowManager windowManager = AppBootstrapper.GetInstance().SimpleIoC.Resolve<IWindowManager>();
@@ -59,6 +64,12 @@ namespace WPFDemo.ViewModels
         {
             IWindowManager windowManager = AppBootstrapper.GetInstance().SimpleIoC.Resolve<IWindowManager>();
             windowManager.ShowWindowAsync(new PagedCollectionDemoViewModel());
+        }
+
+        private void TestPageViewOpen()
+        {
+            IWindowManager windowManager = AppBootstrapper.GetInstance().SimpleIoC.Resolve<IWindowManager>();
+            windowManager.ShowWindowAsync(new TestViewModel());
         }
     }
 }

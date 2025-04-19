@@ -15,13 +15,13 @@
         </ResourceDictionary>
     </Window.Resources>
         <Grid>
-        <pdg:PagedDataGridView x:Name="pageDataGridView">
+        <!--<pdg:PagedDataGridView x:Name="pageDataGridView">
             <pdg:PagedDataGridView.Columns>
                 <DataGridTextColumn Header="编号" Binding="{Binding Id}" />
                 <DataGridTextColumn Header="名称" Binding="{Binding Name}" />
                 <DataGridTextColumn Header="年龄" Binding="{Binding Age}" />
             </pdg:PagedDataGridView.Columns>
-        </pdg:PagedDataGridView>
+        </pdg:PagedDataGridView>-->
 
     </Grid>
 </Window>

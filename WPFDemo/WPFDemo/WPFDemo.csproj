@@ -92,6 +92,7 @@
     <Compile Include="Framework\Converts\IntToInverseBoolConverter.cs" />
     <Compile Include="Framework\Event\EventName.cs" />
     <Compile Include="Framework\Event\EventUtil.cs" />
+    <Compile Include="Framework\Interfaces\IContentView.cs" />
     <Compile Include="Framework\MediaPlayerManager\MediaPlayerManager.cs" />
     <Compile Include="Framework\MVVM\Command.cs" />
     <Compile Include="Framework\MVVM\Commands\RelayCommand.cs" />
@@ -130,6 +131,11 @@
       <DependentUpon>PagedCollectionDemoView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Functions\PagedCollectionViewDemo\PagedCollectionDemoViewModel.cs" />
+    <Compile Include="Functions\TestDemo\TestView.xaml.cs">
+      <DependentUpon>TestView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Functions\TestDemo\TestViewModel.cs" />
+    <Compile Include="ViewModels\HomeContentViewModel.cs" />
     <Compile Include="ViewModels\OverviewSampleViewModel.cs" />
     <Compile Include="ViewModels\Scripts\enum\ApplicationNavigationGroup.cs" />
     <Compile Include="ViewModels\Scripts\Interfaces\IApplicationContentView.cs" />
@@ -215,6 +221,14 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Functions\PagedCollectionViewDemo\PagedCollectionDemoView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Functions\TestDemo\TestView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\HomeContentView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
