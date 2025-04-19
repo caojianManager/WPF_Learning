@@ -25,33 +25,6 @@ C:\Users\roots\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\re
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.xml
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.pdb
 C:\Users\roots\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\ref\AdonisUI.dll
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.deps.json
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.dll
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.pdb
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.xml
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.csproj.AssemblyReference.cache
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Themes\Generic.baml
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI_MarkupCompile.cache
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI_MarkupCompile.lref
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\ColorSchemes\Dark.baml
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\ColorSchemes\Light.baml
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Controls\AdonisWindow.baml
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Controls\MessageBoxWindow.baml
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Controls\RippleHost.baml
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Controls\SplitButton.baml
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Controls\ValidationErrorIndicator.baml
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.g.resources
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.AssemblyInfoInputs.cache
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.AssemblyInfo.cs
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.csproj.CoreCompileInputs.cache
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.sourcelink.json
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.dll
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\refint\AdonisUI.dll
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.xml
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.pdb
-C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\ref\AdonisUI.dll
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.deps.json
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.dll
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.pdb
@@ -79,3 +52,30 @@ C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\r
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.xml
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.pdb
 C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\ref\AdonisUI.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.deps.json
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.pdb
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\bin\Debug\net5.0-windows\AdonisUI.xml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.csproj.AssemblyReference.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Themes\Generic.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI_MarkupCompile.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI_MarkupCompile.lref
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\ColorSchemes\Dark.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\ColorSchemes\Light.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Controls\AdonisWindow.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Controls\MessageBoxWindow.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Controls\RippleHost.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Controls\SplitButton.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\Controls\ValidationErrorIndicator.baml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.g.resources
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.AssemblyInfoInputs.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.AssemblyInfo.cs
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.csproj.CoreCompileInputs.cache
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.sourcelink.json
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\refint\AdonisUI.dll
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.xml
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\AdonisUI.pdb
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI\obj\Debug\net5.0-windows\ref\AdonisUI.dll
