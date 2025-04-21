@@ -141,3 +141,15 @@ C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.Up2Date
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\bin\Debug\Resources\audios\warning_tip.mp3
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\SmartCollectionView\SmartCollectionView.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\RefreshButton\RefreshButton.g.cs
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\SmartCollectionView\SmartCollectionView.g.cs
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PagedCollectionViewDemo\PagedCollectionDemoView.g.cs
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\TestDemo\TestView.g.cs
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\WPFDemo_Content.g.cs
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Framework\UI\UserControls\RefreshButton\RefreshButton.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\PagedCollectionViewDemo\PagedCollectionDemoView.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Functions\TestDemo\TestView.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\HomeContentView.baml
+C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\WPFDemo\obj\Debug\Views\Styles\HomeContentStyle.baml
