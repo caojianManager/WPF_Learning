@@ -11,6 +11,7 @@ using System.Windows.Input;
 using WPFDemo.Functions.EPITools;
 using WPFDemo.Functions.PageDataGridDemo;
 using WPFDemo.Functions.PagedCollectionViewDemo;
+using WPFDemo.Functions.SettingsDemo;
 using WPFDemo.Functions.TestDemo;
 using WPFDemo.ViewModels;
 
@@ -35,6 +36,8 @@ namespace WPFDemo.ViewModels
         public ICommand OpenPagedCollectionViewDemoCommand { get; set; }
 
         public ICommand TestPageViewDemoCommand { get; set; }
+
+        public ICommand SettingViewCommand { get; set; }
         public void Init()
         {
             ConfigCommands();
@@ -46,6 +49,7 @@ namespace WPFDemo.ViewModels
             OpenDataGridDemoCommand = new RelayCommand((o) => OpenDataGridDemoWindow(), (o) => { return true; });
             OpenPagedCollectionViewDemoCommand = new RelayCommand((o) => OpenPagedCollectionViewDemoWindow(), (o) => { return true; });
             TestPageViewDemoCommand = new RelayCommand((o) => TestPageViewOpen());
+            SettingViewCommand = new RelayCommand((o) => SettingViewOpen());
         }
 
         private void OpenEPIToolWindow()
@@ -70,6 +74,12 @@ namespace WPFDemo.ViewModels
         {
             IWindowManager windowManager = AppBootstrapper.GetInstance().SimpleIoC.Resolve<IWindowManager>();
             windowManager.ShowWindowAsync(new TestViewModel());
+        }
+
+        private void SettingViewOpen()
+        {
+            IWindowManager windowManager = AppBootstrapper.GetInstance().SimpleIoC.Resolve<IWindowManager>();
+            windowManager.ShowWindowAsync(new SettingView());
         }
     }
 }

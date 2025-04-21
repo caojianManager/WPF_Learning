@@ -131,6 +131,10 @@
       <DependentUpon>PagedCollectionDemoView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Functions\PagedCollectionViewDemo\PagedCollectionDemoViewModel.cs" />
+    <Compile Include="Functions\SettingsDemo\SettingView.xaml.cs">
+      <DependentUpon>SettingView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Functions\SettingsDemo\SettingViewModel.cs" />
     <Compile Include="Functions\TestDemo\TestView.xaml.cs">
       <DependentUpon>TestView.xaml</DependentUpon>
     </Compile>
@@ -223,6 +227,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Functions\PagedCollectionViewDemo\PagedCollectionDemoView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Functions\SettingsDemo\SettingView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

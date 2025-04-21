@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\WPFDemo\App.xaml
-18-124881463
+191462725435
 1-825931936
-6354711255
+65-396875750
 24697100734
-Framework\UI\Styles\DataGridStyles.xaml;Framework\UI\Templates\LoadingCircleTemplate.xaml;Framework\UI\UserControls\PagedDataGrid\Styles\PagedDataGridStyles.xaml;Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.xaml;Framework\UI\UserControls\RefreshButton\RefreshButton.xaml;Framework\UI\UserControls\SmartCollectionView\SmartCollectionView.xaml;Functions\EPITools\EPIToolWindowView.xaml;Functions\PageDataGridDemo\PageDataGridDemoView.xaml;Functions\PagedCollectionViewDemo\PagedCollectionDemoView.xaml;Functions\TestDemo\TestView.xaml;Views\HomeContentView.xaml;Views\FunctionView.xaml;Views\MainWindowView.xaml;Views\Styles\ControlReferenceSectionStyle.xaml;Views\Styles\HomeContentStyle.xaml;Views\Styles\ItemGroupLabelStyle.xaml;Views\OverviewSampleView.xaml;Views\Views.xaml;
+Framework\UI\Styles\DataGridStyles.xaml;Framework\UI\Templates\LoadingCircleTemplate.xaml;Framework\UI\UserControls\PagedDataGrid\Styles\PagedDataGridStyles.xaml;Framework\UI\UserControls\PagedDataGrid\PagedDataGridView.xaml;Framework\UI\UserControls\RefreshButton\RefreshButton.xaml;Framework\UI\UserControls\SmartCollectionView\SmartCollectionView.xaml;Functions\EPITools\EPIToolWindowView.xaml;Functions\PageDataGridDemo\PageDataGridDemoView.xaml;Functions\PagedCollectionViewDemo\PagedCollectionDemoView.xaml;Functions\SettingsDemo\SettingView.xaml;Functions\TestDemo\TestView.xaml;Views\HomeContentView.xaml;Views\FunctionView.xaml;Views\MainWindowView.xaml;Views\Styles\ControlReferenceSectionStyle.xaml;Views\Styles\HomeContentStyle.xaml;Views\Styles\ItemGroupLabelStyle.xaml;Views\OverviewSampleView.xaml;Views\Views.xaml;
 
-True
+False
 
