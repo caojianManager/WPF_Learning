@@ -3,10 +3,51 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:adonisUi="clr-namespace:AdonisUI;assembly=AdonisUI"
         xmlns:local="clr-namespace:WPFDemo.Functions.SettingsDemo"
+        xmlns:uc="clr-namespace:FrameWork.UI.UserControls"
+        xmlns:setModel ="clr-namespace:WPFDemo.Functions.SettingsDemo"
         mc:Ignorable="d"
         Title="SettingView" Height="450" Width="800">
+    <Window.Background>
+        <StaticResource ResourceKey= "{x:Static adonisUi:Brushes.WindowBackgroundImage}" />
+    </Window.Background>
+
+    <Window.Resources>
+        <DataTemplate x:Key="CellTemplate_One" DataType="{x:Type setModel:CellMoel_One}">
+            <Button Background="{Binding BackgroundColor}" Margin="5">
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+                    <TextBlock Text="{Binding content}" FontSize="24" HorizontalAlignment="Center"/>
+                    <TextBlock Text="{Binding value}" Margin="5,0,0,0" HorizontalAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </DataTemplate>
+
+        <DataTemplate x:Key="CellTemplate_Two" DataType="{x:Type setModel:CellMoel_Two}">
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock Text="{Binding Text}" Width="120" VerticalAlignment="Center"/>
+                <RadioButton IsChecked="True"
+                              Content="Radio Button"
+                              Margin="{adonisUi:Space 2, 0, 0, 0}"/>
+
+                <RadioButton IsChecked="False"
+                              Content="Radio Button"
+                              Margin="{adonisUi:Space 2, 0, 0, 0}"/>
+            </StackPanel>
+        </DataTemplate>
+
+        <uc:TypeTemplateSelector x:Key="AutoTemplateSelector">
+            <uc:TemplateMapping Type="{x:Type setModel:CellMoel_One}" Template="{StaticResource CellTemplate_One}" />
+            <uc:TemplateMapping Type="{x:Type setModel:CellMoel_Two}" Template="{StaticResource CellTemplate_Two}" />
+        </uc:TypeTemplateSelector>
+    </Window.Resources>
+
     <Grid>
-        
+        <uc:SmartCollectionView
+            ItemsSource="{Binding MixedItems}"
+            ItemTemplateSelector="{StaticResource AutoTemplateSelector}"
+            Layout="Grid"
+            Columns="2">
+        </uc:SmartCollectionView>
     </Grid>
 </Window>

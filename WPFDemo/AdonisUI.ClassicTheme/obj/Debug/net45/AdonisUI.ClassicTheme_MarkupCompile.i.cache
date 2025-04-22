@@ -4,16 +4,16 @@
 library
 C#
 .cs
-C:\Users\lenovo\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\obj\Debug\net45\
+C:\Users\Cao Jian\Desktop\WPF_Learning\WPFDemo\AdonisUI.ClassicTheme\obj\Debug\net45\
 AdonisUI.ClassicTheme
 none
 false
-TRACE;DEBUG;NETFRAMEWORK;NET45;;NET30_OR_GREATER;NET35_OR_GREATER;NET40_OR_GREATER;NET45_OR_GREATER
+TRACE;DEBUG;NETFRAMEWORK;NET45;
 
 50-787501899
 
 3-1245813791
-20577910068
+20-1661970167
 DefaultStyles\Button.xaml;DefaultStyles\Calendar.xaml;DefaultStyles\CheckBox.xaml;DefaultStyles\ComboBox.xaml;DefaultStyles\DataGrid.xaml;DefaultStyles\DatePicker.xaml;DefaultStyles\Expander.xaml;DefaultStyles\GridSplitter.xaml;DefaultStyles\GroupBox.xaml;DefaultStyles\Hyperlink.xaml;DefaultStyles\Label.xaml;DefaultStyles\ListBox.xaml;DefaultStyles\ListView.xaml;DefaultStyles\Menu.xaml;DefaultStyles\MenuItem.xaml;DefaultStyles\MessageBoxWindow.xaml;DefaultStyles\ProgressBar.xaml;DefaultStyles\RadioButton.xaml;DefaultStyles\ScrollBar.xaml;DefaultStyles\ScrollViewer.xaml;DefaultStyles\Slider.xaml;DefaultStyles\SplitButton.xaml;DefaultStyles\StatusBar.xaml;DefaultStyles\TabControl.xaml;DefaultStyles\TextBlock.xaml;DefaultStyles\TextBox.xaml;DefaultStyles\ToggleButton.xaml;DefaultStyles\ToolBar.xaml;DefaultStyles\TreeView.xaml;DefaultStyles\Window.xaml;Dimensions.xaml;NamedStyles\AccentButton.xaml;NamedStyles\AccentComboBox.xaml;NamedStyles\AccentToolbarButton.xaml;NamedStyles\DefaultToAccentToggleButton.xaml;NamedStyles\RippleListBoxItemStyle.xaml;NamedStyles\SelectableTextBlockTextBox.xaml;NamedStyles\ToggleSwitch.xaml;NamedStyles\ToolbarButton.xaml;NamedStyles\ToolbarToggleButton.xaml;NamedStyles\WindowButton.xaml;NamedStyles\WindowToggleButton.xaml;Resources.xaml;Templates\DatePickerDropDownButton.xaml;Templates\Expander.xaml;Templates\Icons.xaml;Templates\LoadingBars.xaml;Templates\LoadingCircle.xaml;Templates\LoadingDots.xaml;Templates\ValidationErrorTemplate.xaml;
 
 True

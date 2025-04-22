@@ -485,25 +485,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lenovo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Cao Jian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.17.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\AdonisUI.ClassicTheme.csproj",
+      "projectUniqueName": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\AdonisUI.ClassicTheme.csproj",
       "projectName": "AdonisUI.ClassicTheme",
-      "projectPath": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\AdonisUI.ClassicTheme.csproj",
-      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\obj\\",
+      "projectPath": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\AdonisUI.ClassicTheme.csproj",
+      "packagesPath": "C:\\Users\\Cao Jian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI.ClassicTheme\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Cao Jian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -519,24 +514,24 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj"
+            "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj": {
+              "projectPath": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj"
             }
           }
         },
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj"
+            "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj": {
+              "projectPath": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj"
             }
           }
         },
         "net45": {
           "targetAlias": "net45",
           "projectReferences": {
-            "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj"
+            "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj": {
+              "projectPath": "C:\\Users\\Cao Jian\\Desktop\\WPF_Learning\\WPFDemo\\AdonisUI\\AdonisUI.csproj"
             }
           }
         }
@@ -550,8 +545,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "netcoreapp3.1": {
@@ -575,7 +569,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       },
       "net5.0-windows7.0": {
         "targetAlias": "net5.0-windows",
@@ -598,7 +592,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       },
       "net45": {
         "targetAlias": "net45",
@@ -610,7 +604,7 @@
             "autoReferenced": true
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
